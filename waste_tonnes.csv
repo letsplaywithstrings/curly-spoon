@@ -1,1409 +1,1409 @@
-"","city","FeatureType","date","waste","tonnes"
-"1","Aberdeen City","Council Area",2011,"Landfilled",62521.9
-"2","Aberdeenshire","Council Area",2011,"Landfilled",98318
-"3","Angus","Council Area",2011,"Landfilled",22724.9
-"4","Argyll and Bute","Council Area",2011,"Landfilled",26126
-"5","City of Edinburgh","Council Area",2011,"Landfilled",130590.3
-"6","Clackmannanshire","Council Area",2011,"Landfilled",14318.6
-"7","Dumfries and Galloway","Council Area",2011,"Landfilled",34886.3
-"8","Dundee City","Council Area",2011,"Landfilled",7963.6
-"9","East Ayrshire","Council Area",2011,"Landfilled",32510.1
-"10","East Dunbartonshire","Council Area",2011,"Landfilled",36731.2
-"11","East Lothian","Council Area",2011,"Landfilled",27643.7
-"12","East Renfrewshire","Council Area",2011,"Landfilled",20743.7
-"13","Falkirk","Council Area",2011,"Landfilled",36969.4
-"14","Fife","Council Area",2011,"Landfilled",98593.2
-"15","Glasgow City","Council Area",2011,"Landfilled",183691.2
-"16","Highland","Council Area",2011,"Landfilled",68856.5
-"17","Inverclyde","Council Area",2011,"Landfilled",19946.2
-"18","Midlothian","Council Area",2011,"Landfilled",23162.6
-"19","Moray","Council Area",2011,"Landfilled",28996.3
-"20","Na h-Eileanan Siar","Council Area",2011,"Landfilled",12117.6
-"21","North Ayrshire","Council Area",2011,"Landfilled",32911.5
-"22","North Lanarkshire","Council Area",2011,"Landfilled",97069.9
-"23","Orkney Islands","Council Area",2011,"Landfilled",2813.1
-"24","Perth and Kinross","Council Area",2011,"Landfilled",38034.1
-"25","Renfrewshire","Council Area",2011,"Landfilled",45230
-"26","Scottish Borders","Council Area",2011,"Landfilled",28688.2
-"27","Shetland Islands","Council Area",2011,"Landfilled",450.4
-"28","South Ayrshire","Council Area",2011,"Landfilled",30279.5
-"29","South Lanarkshire","Council Area",2011,"Landfilled",105640.4
-"30","Stirling","Council Area",2011,"Landfilled",20484
-"31","West Dunbartonshire","Council Area",2011,"Landfilled",22633.9
-"32","West Lothian","Council Area",2011,"Landfilled",42143.2
-"33","Aberdeen City","Council Area",2012,"Landfilled",60988.3
-"34","Aberdeenshire","Council Area",2012,"Landfilled",86819
-"35","Angus","Council Area",2012,"Landfilled",32846.5
-"36","Argyll and Bute","Council Area",2012,"Landfilled",27660.1
-"37","City of Edinburgh","Council Area",2012,"Landfilled",118820.4
-"38","Clackmannanshire","Council Area",2012,"Landfilled",9944.6
-"39","Dumfries and Galloway","Council Area",2012,"Landfilled",23701.6
-"40","Dundee City","Council Area",2012,"Landfilled",34655.2
-"41","East Ayrshire","Council Area",2012,"Landfilled",32685.2
-"42","East Dunbartonshire","Council Area",2012,"Landfilled",33865.3
-"43","East Lothian","Council Area",2012,"Landfilled",24169.2
-"44","East Renfrewshire","Council Area",2012,"Landfilled",20162
-"45","Falkirk","Council Area",2012,"Landfilled",32262.3
-"46","Fife","Council Area",2012,"Landfilled",92292
-"47","Glasgow City","Council Area",2012,"Landfilled",165095.8
-"48","Highland","Council Area",2012,"Landfilled",69436.1
-"49","Inverclyde","Council Area",2012,"Landfilled",15792.7
-"50","Midlothian","Council Area",2012,"Landfilled",23362
-"51","Moray","Council Area",2012,"Landfilled",23979
-"52","Na h-Eileanan Siar","Council Area",2012,"Landfilled",10069.4
-"53","North Ayrshire","Council Area",2012,"Landfilled",29752
-"54","North Lanarkshire","Council Area",2012,"Landfilled",93825.7
-"55","Orkney Islands","Council Area",2012,"Landfilled",2721
-"56","Perth and Kinross","Council Area",2012,"Landfilled",33760.8
-"57","Renfrewshire","Council Area",2012,"Landfilled",47049.8
-"58","Scottish Borders","Council Area",2012,"Landfilled",29440.1
-"59","Shetland Islands","Council Area",2012,"Landfilled",1799.3
-"60","South Ayrshire","Council Area",2012,"Landfilled",30275.4
-"61","South Lanarkshire","Council Area",2012,"Landfilled",95124.5
-"62","Stirling","Council Area",2012,"Landfilled",17008.8
-"63","West Dunbartonshire","Council Area",2012,"Landfilled",21622.1
-"64","West Lothian","Council Area",2012,"Landfilled",41167.4
-"65","Aberdeen City","Council Area",2013,"Landfilled",59051.5
-"66","Aberdeenshire","Council Area",2013,"Landfilled",84421
-"67","Angus","Council Area",2013,"Landfilled",25264.8
-"68","Argyll and Bute","Council Area",2013,"Landfilled",25188
-"69","City of Edinburgh","Council Area",2013,"Landfilled",114171.8
-"70","Clackmannanshire","Council Area",2013,"Landfilled",9018.1
-"71","Dumfries and Galloway","Council Area",2013,"Landfilled",30923.2
-"72","Dundee City","Council Area",2013,"Landfilled",26795
-"73","East Ayrshire","Council Area",2013,"Landfilled",28567.1
-"74","East Dunbartonshire","Council Area",2013,"Landfilled",25339.6
-"75","East Lothian","Council Area",2013,"Landfilled",28455.8
-"76","East Renfrewshire","Council Area",2013,"Landfilled",19239
-"77","Falkirk","Council Area",2013,"Landfilled",31834
-"78","Fife","Council Area",2013,"Landfilled",83217
-"79","Glasgow City","Council Area",2013,"Landfilled",166630.6
-"80","Highland","Council Area",2013,"Landfilled",66168.8
-"81","Inverclyde","Council Area",2013,"Landfilled",12967.4
-"82","Midlothian","Council Area",2013,"Landfilled",23165
-"83","Moray","Council Area",2013,"Landfilled",23109.6
-"84","Na h-Eileanan Siar","Council Area",2013,"Landfilled",8457
-"85","North Ayrshire","Council Area",2013,"Landfilled",26566.3
-"86","North Lanarkshire","Council Area",2013,"Landfilled",76494
-"87","Orkney Islands","Council Area",2013,"Landfilled",2699.6
-"88","Perth and Kinross","Council Area",2013,"Landfilled",31621.9
-"89","Renfrewshire","Council Area",2013,"Landfilled",40500.3
-"90","Scottish Borders","Council Area",2013,"Landfilled",28821.3
-"91","Shetland Islands","Council Area",2013,"Landfilled",2269.3
-"92","South Ayrshire","Council Area",2013,"Landfilled",27048.3
-"93","South Lanarkshire","Council Area",2013,"Landfilled",88205.4
-"94","Stirling","Council Area",2013,"Landfilled",16051.6
-"95","West Dunbartonshire","Council Area",2013,"Landfilled",20027.2
-"96","West Lothian","Council Area",2013,"Landfilled",38539.2
-"97","Aberdeen City","Council Area",2014,"Landfilled",59102.1
-"98","Aberdeenshire","Council Area",2014,"Landfilled",78733.4
-"99","Angus","Council Area",2014,"Landfilled",14963.4
-"100","Argyll and Bute","Council Area",2014,"Landfilled",27192.2
-"101","City of Edinburgh","Council Area",2014,"Landfilled",107913.7
-"102","Clackmannanshire","Council Area",2014,"Landfilled",10772.4
-"103","Dumfries and Galloway","Council Area",2014,"Landfilled",25812.9
-"104","Dundee City","Council Area",2014,"Landfilled",4394
-"105","East Ayrshire","Council Area",2014,"Landfilled",19406.9
-"106","East Dunbartonshire","Council Area",2014,"Landfilled",23093
-"107","East Lothian","Council Area",2014,"Landfilled",26123
-"108","East Renfrewshire","Council Area",2014,"Landfilled",19938.6
-"109","Falkirk","Council Area",2014,"Landfilled",33519.5
-"110","Fife","Council Area",2014,"Landfilled",82667
-"111","Glasgow City","Council Area",2014,"Landfilled",164810.9
-"112","Highland","Council Area",2014,"Landfilled",69014.7
-"113","Inverclyde","Council Area",2014,"Landfilled",12144.9
-"114","Midlothian","Council Area",2014,"Landfilled",21587.9
-"115","Moray","Council Area",2014,"Landfilled",23220.6
-"116","Na h-Eileanan Siar","Council Area",2014,"Landfilled",8654.7
-"117","North Ayrshire","Council Area",2014,"Landfilled",27708.2
-"118","North Lanarkshire","Council Area",2014,"Landfilled",81800.9
-"119","Orkney Islands","Council Area",2014,"Landfilled",3010.9
-"120","Perth and Kinross","Council Area",2014,"Landfilled",30714.8
-"121","Renfrewshire","Council Area",2014,"Landfilled",25492.3
-"122","Scottish Borders","Council Area",2014,"Landfilled",30666.3
-"123","Shetland Islands","Council Area",2014,"Landfilled",2142.6
-"124","South Ayrshire","Council Area",2014,"Landfilled",19104.9
-"125","South Lanarkshire","Council Area",2014,"Landfilled",83531.2
-"126","Stirling","Council Area",2014,"Landfilled",17192.1
-"127","West Dunbartonshire","Council Area",2014,"Landfilled",20040.9
-"128","West Lothian","Council Area",2014,"Landfilled",38008.6
-"129","Aberdeen City","Council Area",2015,"Landfilled",58155.2
-"130","Aberdeenshire","Council Area",2015,"Landfilled",73175.5
-"131","Angus","Council Area",2015,"Landfilled",12696.9
-"132","Argyll and Bute","Council Area",2015,"Landfilled",25293.1
-"133","City of Edinburgh","Council Area",2015,"Landfilled",95812.7
-"134","Clackmannanshire","Council Area",2015,"Landfilled",11396.7
-"135","Dumfries and Galloway","Council Area",2015,"Landfilled",21766.7
-"136","Dundee City","Council Area",2015,"Landfilled",4621.9
-"137","East Ayrshire","Council Area",2015,"Landfilled",19343.5
-"138","East Dunbartonshire","Council Area",2015,"Landfilled",22301.2
-"139","East Lothian","Council Area",2015,"Landfilled",22525.7
-"140","East Renfrewshire","Council Area",2015,"Landfilled",20140.5
-"141","Falkirk","Council Area",2015,"Landfilled",28726.7
-"142","Fife","Council Area",2015,"Landfilled",82100.1
-"143","Glasgow City","Council Area",2015,"Landfilled",161917.6
-"144","Highland","Council Area",2015,"Landfilled",71448.8
-"145","Inverclyde","Council Area",2015,"Landfilled",12759.7
-"146","Midlothian","Council Area",2015,"Landfilled",14226.8
-"147","Moray","Council Area",2015,"Landfilled",21338.3
-"148","Na h-Eileanan Siar","Council Area",2015,"Landfilled",9091.6
-"149","North Ayrshire","Council Area",2015,"Landfilled",26658.4
-"150","North Lanarkshire","Council Area",2015,"Landfilled",76973.5
-"151","Orkney Islands","Council Area",2015,"Landfilled",2243.9
-"152","Perth and Kinross","Council Area",2015,"Landfilled",26849.3
-"153","Renfrewshire","Council Area",2015,"Landfilled",26819.3
-"154","Scottish Borders","Council Area",2015,"Landfilled",30355.2
-"155","Shetland Islands","Council Area",2015,"Landfilled",2258.4
-"156","South Ayrshire","Council Area",2015,"Landfilled",19499.3
-"157","South Lanarkshire","Council Area",2015,"Landfilled",77415.6
-"158","Stirling","Council Area",2015,"Landfilled",18029.6
-"159","West Dunbartonshire","Council Area",2015,"Landfilled",20035.8
-"160","West Lothian","Council Area",2015,"Landfilled",34559.5
-"161","Aberdeen City","Council Area",2016,"Landfilled",58020.6
-"162","Aberdeenshire","Council Area",2016,"Landfilled",72995.1
-"163","Angus","Council Area",2016,"Landfilled",15269.8
-"164","Argyll and Bute","Council Area",2016,"Landfilled",27314.6
-"165","City of Edinburgh","Council Area",2016,"Landfilled",103589.8
-"166","Clackmannanshire","Council Area",2016,"Landfilled",7887.4
-"167","Dumfries and Galloway","Council Area",2016,"Landfilled",31975.1
-"168","Dundee City","Council Area",2016,"Landfilled",4638.4
-"169","East Ayrshire","Council Area",2016,"Landfilled",20436.7
-"170","East Dunbartonshire","Council Area",2016,"Landfilled",22858
-"171","East Lothian","Council Area",2016,"Landfilled",24450.9
-"172","East Renfrewshire","Council Area",2016,"Landfilled",17922.9
-"173","Falkirk","Council Area",2016,"Landfilled",23722.9
-"174","Fife","Council Area",2016,"Landfilled",76955.3
-"175","Glasgow City","Council Area",2016,"Landfilled",156337.1
-"176","Highland","Council Area",2016,"Landfilled",71732.8
-"177","Inverclyde","Council Area",2016,"Landfilled",12770
-"178","Midlothian","Council Area",2016,"Landfilled",14079.4
-"179","Moray","Council Area",2016,"Landfilled",21252.7
-"180","Na h-Eileanan Siar","Council Area",2016,"Landfilled",9423.1
-"181","North Ayrshire","Council Area",2016,"Landfilled",26615
-"182","North Lanarkshire","Council Area",2016,"Landfilled",69410
-"183","Orkney Islands","Council Area",2016,"Landfilled",2880
-"184","Perth and Kinross","Council Area",2016,"Landfilled",27008.4
-"185","Renfrewshire","Council Area",2016,"Landfilled",20245.3
-"186","Scottish Borders","Council Area",2016,"Landfilled",30701.9
-"187","Shetland Islands","Council Area",2016,"Landfilled",2256.1
-"188","South Ayrshire","Council Area",2016,"Landfilled",22320.4
-"189","South Lanarkshire","Council Area",2016,"Landfilled",71715.1
-"190","Stirling","Council Area",2016,"Landfilled",12200.7
-"191","West Dunbartonshire","Council Area",2016,"Landfilled",18868.8
-"192","West Lothian","Council Area",2016,"Landfilled",33952.3
-"193","Aberdeen City","Council Area",2017,"Landfilled",31624
-"194","Aberdeenshire","Council Area",2017,"Landfilled",69921.3
-"195","Angus","Council Area",2017,"Landfilled",13366.6
-"196","Argyll and Bute","Council Area",2017,"Landfilled",23578.1
-"197","City of Edinburgh","Council Area",2017,"Landfilled",113236.7
-"198","Clackmannanshire","Council Area",2017,"Landfilled",8137.9
-"199","Dumfries and Galloway","Council Area",2017,"Landfilled",31725.1
-"200","Dundee City","Council Area",2017,"Landfilled",4017
-"201","East Ayrshire","Council Area",2017,"Landfilled",20941.2
-"202","East Dunbartonshire","Council Area",2017,"Landfilled",23107
-"203","East Lothian","Council Area",2017,"Landfilled",23499.5
-"204","East Renfrewshire","Council Area",2017,"Landfilled",14146.3
-"205","Falkirk","Council Area",2017,"Landfilled",24419.3
-"206","Fife","Council Area",2017,"Landfilled",68786
-"207","Glasgow City","Council Area",2017,"Landfilled",150942.9
-"208","Highland","Council Area",2017,"Landfilled",71965.9
-"209","Inverclyde","Council Area",2017,"Landfilled",10265.3
-"210","Midlothian","Council Area",2017,"Landfilled",18856.7
-"211","Moray","Council Area",2017,"Landfilled",21572.9
-"212","Na h-Eileanan Siar","Council Area",2017,"Landfilled",9353.1
-"213","North Ayrshire","Council Area",2017,"Landfilled",26052
-"214","North Lanarkshire","Council Area",2017,"Landfilled",87011.1
-"215","Orkney Islands","Council Area",2017,"Landfilled",3324.7
-"216","Perth and Kinross","Council Area",2017,"Landfilled",28495.6
-"217","Renfrewshire","Council Area",2017,"Landfilled",23641
-"218","Scottish Borders","Council Area",2017,"Landfilled",30592.5
-"219","Shetland Islands","Council Area",2017,"Landfilled",2177.7
-"220","South Ayrshire","Council Area",2017,"Landfilled",20128.4
-"221","South Lanarkshire","Council Area",2017,"Landfilled",79987.2
-"222","Stirling","Council Area",2017,"Landfilled",12117
-"223","West Dunbartonshire","Council Area",2017,"Landfilled",19162
-"224","West Lothian","Council Area",2017,"Landfilled",20806.3
-"225","Aberdeen City","Council Area",2018,"Landfilled",17618.5
-"226","Aberdeenshire","Council Area",2018,"Landfilled",65436.6
-"227","Angus","Council Area",2018,"Landfilled",2383.1
-"228","Argyll and Bute","Council Area",2018,"Landfilled",22097.6
-"229","City of Edinburgh","Council Area",2018,"Landfilled",100701.2
-"230","Clackmannanshire","Council Area",2018,"Landfilled",10924.2
-"231","Dumfries and Galloway","Council Area",2018,"Landfilled",35063.5
-"232","Dundee City","Council Area",2018,"Landfilled",4339.7
-"233","East Ayrshire","Council Area",2018,"Landfilled",20647.4
-"234","East Dunbartonshire","Council Area",2018,"Landfilled",13431.4
-"235","East Lothian","Council Area",2018,"Landfilled",21524
-"236","East Renfrewshire","Council Area",2018,"Landfilled",13753.3
-"237","Falkirk","Council Area",2018,"Landfilled",30595.3
-"238","Fife","Council Area",2018,"Landfilled",71322
-"239","Glasgow City","Council Area",2018,"Landfilled",167502.2
-"240","Highland","Council Area",2018,"Landfilled",66029.4
-"241","Inverclyde","Council Area",2018,"Landfilled",10613.5
-"242","Midlothian","Council Area",2018,"Landfilled",12327.2
-"243","Moray","Council Area",2018,"Landfilled",20266
-"244","Na h-Eileanan Siar","Council Area",2018,"Landfilled",9264.6
-"245","North Ayrshire","Council Area",2018,"Landfilled",21096.3
-"246","North Lanarkshire","Council Area",2018,"Landfilled",62326.2
-"247","Orkney Islands","Council Area",2018,"Landfilled",2650.2
-"248","Perth and Kinross","Council Area",2018,"Landfilled",30649.5
-"249","Renfrewshire","Council Area",2018,"Landfilled",17009.8
-"250","Scottish Borders","Council Area",2018,"Landfilled",30670.6
-"251","Shetland Islands","Council Area",2018,"Landfilled",2155.6
-"252","South Ayrshire","Council Area",2018,"Landfilled",19984.1
-"253","South Lanarkshire","Council Area",2018,"Landfilled",72532.8
-"254","Stirling","Council Area",2018,"Landfilled",18803.6
-"255","West Dunbartonshire","Council Area",2018,"Landfilled",19624.4
-"256","West Lothian","Council Area",2018,"Landfilled",18123.7
-"257","Aberdeen City","Council Area",2019,"Landfilled",15005.4
-"258","Aberdeenshire","Council Area",2019,"Landfilled",66195.3
-"259","Angus","Council Area",2019,"Landfilled",2701.8
-"260","Argyll and Bute","Council Area",2019,"Landfilled",21825.2
-"261","City of Edinburgh","Council Area",2019,"Landfilled",8586.8
-"262","Clackmannanshire","Council Area",2019,"Landfilled",11341.6
-"263","Dumfries and Galloway","Council Area",2019,"Landfilled",19647.2
-"264","Dundee City","Council Area",2019,"Landfilled",4520.7
-"265","East Ayrshire","Council Area",2019,"Landfilled",21091.6
-"266","East Dunbartonshire","Council Area",2019,"Landfilled",10289.5
-"267","East Lothian","Council Area",2019,"Landfilled",7671.9
-"268","East Renfrewshire","Council Area",2019,"Landfilled",14561.1
-"269","Falkirk","Council Area",2019,"Landfilled",30664.8
-"270","Fife","Council Area",2019,"Landfilled",78275
-"271","Glasgow City","Council Area",2019,"Landfilled",123466.4
-"272","Highland","Council Area",2019,"Landfilled",63856.6
-"273","Inverclyde","Council Area",2019,"Landfilled",10983.6
-"274","Midlothian","Council Area",2019,"Landfilled",4366.7
-"275","Moray","Council Area",2019,"Landfilled",19357.3
-"276","Na h-Eileanan Siar","Council Area",2019,"Landfilled",9000.6
-"277","North Ayrshire","Council Area",2019,"Landfilled",16306.7
-"278","North Lanarkshire","Council Area",2019,"Landfilled",31751.5
-"279","Orkney Islands","Council Area",2019,"Landfilled",2675.8
-"280","Perth and Kinross","Council Area",2019,"Landfilled",30845.3
-"281","Renfrewshire","Council Area",2019,"Landfilled",13466.8
-"282","Scottish Borders","Council Area",2019,"Landfilled",15064.5
-"283","Shetland Islands","Council Area",2019,"Landfilled",1911.6
-"284","South Ayrshire","Council Area",2019,"Landfilled",17119.5
-"285","South Lanarkshire","Council Area",2019,"Landfilled",37044.5
-"286","Stirling","Council Area",2019,"Landfilled",19033.9
-"287","West Dunbartonshire","Council Area",2019,"Landfilled",17994.2
-"288","West Lothian","Council Area",2019,"Landfilled",11517.8
-"289","Aberdeen City","Council Area",2020,"Landfilled",22358.8
-"290","Aberdeenshire","Council Area",2020,"Landfilled",65503.4
-"291","Angus","Council Area",2020,"Landfilled",3015.9
-"292","Argyll and Bute","Council Area",2020,"Landfilled",22342
-"293","City of Edinburgh","Council Area",2020,"Landfilled",6433.2
-"294","Clackmannanshire","Council Area",2020,"Landfilled",11923.4
-"295","Dumfries and Galloway","Council Area",2020,"Landfilled",11938.2
-"296","Dundee City","Council Area",2020,"Landfilled",5143.5
-"297","East Ayrshire","Council Area",2020,"Landfilled",25126.1
-"298","East Dunbartonshire","Council Area",2020,"Landfilled",7251.9
-"299","East Lothian","Council Area",2020,"Landfilled",4949.6
-"300","East Renfrewshire","Council Area",2020,"Landfilled",4878.1
-"301","Falkirk","Council Area",2020,"Landfilled",33853
-"302","Fife","Council Area",2020,"Landfilled",73298.8
-"303","Glasgow City","Council Area",2020,"Landfilled",76825.9
-"304","Highland","Council Area",2020,"Landfilled",64560.1
-"305","Inverclyde","Council Area",2020,"Landfilled",16148.1
-"306","Midlothian","Council Area",2020,"Landfilled",4837.6
-"307","Moray","Council Area",2020,"Landfilled",18728.5
-"308","Na h-Eileanan Siar","Council Area",2020,"Landfilled",8552.7
-"309","North Ayrshire","Council Area",2020,"Landfilled",4800.3
-"310","North Lanarkshire","Council Area",2020,"Landfilled",18048.4
-"311","Orkney Islands","Council Area",2020,"Landfilled",1774.1
-"312","Perth and Kinross","Council Area",2020,"Landfilled",33660.9
-"313","Renfrewshire","Council Area",2020,"Landfilled",10155.9
-"314","Scottish Borders","Council Area",2020,"Landfilled",136.3
-"315","Shetland Islands","Council Area",2020,"Landfilled",2178.8
-"316","South Ayrshire","Council Area",2020,"Landfilled",19705.9
-"317","South Lanarkshire","Council Area",2020,"Landfilled",27292.2
-"318","Stirling","Council Area",2020,"Landfilled",22919.2
-"319","West Dunbartonshire","Council Area",2020,"Landfilled",23038.1
-"320","West Lothian","Council Area",2020,"Landfilled",8027.8
-"321","Aberdeen City","Council Area",2021,"Landfilled",9376.1
-"322","Aberdeenshire","Council Area",2021,"Landfilled",66291.8
-"323","Angus","Council Area",2021,"Landfilled",1661.5
-"324","Argyll and Bute","Council Area",2021,"Landfilled",22950
-"325","City of Edinburgh","Council Area",2021,"Landfilled",7005.5
-"326","Clackmannanshire","Council Area",2021,"Landfilled",11891
-"327","Dumfries and Galloway","Council Area",2021,"Landfilled",7211.3
-"328","Dundee City","Council Area",2021,"Landfilled",2452
-"329","East Ayrshire","Council Area",2021,"Landfilled",22352.4
-"330","East Dunbartonshire","Council Area",2021,"Landfilled",6063.5
-"331","East Lothian","Council Area",2021,"Landfilled",5486.6
-"332","East Renfrewshire","Council Area",2021,"Landfilled",985.1
-"333","Falkirk","Council Area",2021,"Landfilled",35582.5
-"334","Fife","Council Area",2021,"Landfilled",79541.9
-"335","Glasgow City","Council Area",2021,"Landfilled",97416.4
-"336","Highland","Council Area",2021,"Landfilled",66706.8
-"337","Inverclyde","Council Area",2021,"Landfilled",10821.5
-"338","Midlothian","Council Area",2021,"Landfilled",5427.2
-"339","Moray","Council Area",2021,"Landfilled",20328.9
-"340","Na h-Eileanan Siar","Council Area",2021,"Landfilled",9336.9
-"341","North Ayrshire","Council Area",2021,"Landfilled",3469
-"342","North Lanarkshire","Council Area",2021,"Landfilled",19189.8
-"343","Orkney Islands","Council Area",2021,"Landfilled",1955.9
-"344","Perth and Kinross","Council Area",2021,"Landfilled",32706.8
-"345","Renfrewshire","Council Area",2021,"Landfilled",6998.2
-"346","Scottish Borders","Council Area",2021,"Landfilled",172.4
-"347","Shetland Islands","Council Area",2021,"Landfilled",2399.9
-"348","South Ayrshire","Council Area",2021,"Landfilled",19706.5
-"349","South Lanarkshire","Council Area",2021,"Landfilled",37663.3
-"350","Stirling","Council Area",2021,"Landfilled",20867.1
-"351","West Dunbartonshire","Council Area",2021,"Landfilled",22368.9
-"352","West Lothian","Council Area",2021,"Landfilled",7140
-"353","Aberdeen City","Council Area",2011,"Other Diversion",0
-"354","Aberdeenshire","Council Area",2011,"Other Diversion",0
-"355","Angus","Council Area",2011,"Other Diversion",13482.5
-"356","Argyll and Bute","Council Area",2011,"Other Diversion",7536.8
-"357","City of Edinburgh","Council Area",2011,"Other Diversion",2170.6
-"358","Clackmannanshire","Council Area",2011,"Other Diversion",367.9
-"359","Dumfries and Galloway","Council Area",2011,"Other Diversion",30781.7
-"360","Dundee City","Council Area",2011,"Other Diversion",38263.3
-"361","East Ayrshire","Council Area",2011,"Other Diversion",66.4
-"362","East Dunbartonshire","Council Area",2011,"Other Diversion",1259.9
-"363","East Lothian","Council Area",2011,"Other Diversion",2087.1
-"364","East Renfrewshire","Council Area",2011,"Other Diversion",514.7
-"365","Falkirk","Council Area",2011,"Other Diversion",0
-"366","Fife","Council Area",2011,"Other Diversion",974.7
-"367","Glasgow City","Council Area",2011,"Other Diversion",0
-"368","Highland","Council Area",2011,"Other Diversion",2020.8
-"369","Inverclyde","Council Area",2011,"Other Diversion",0
-"370","Midlothian","Council Area",2011,"Other Diversion",59.8
-"371","Moray","Council Area",2011,"Other Diversion",0
-"372","Na h-Eileanan Siar","Council Area",2011,"Other Diversion",2227.6
-"373","North Ayrshire","Council Area",2011,"Other Diversion",80.8
-"374","North Lanarkshire","Council Area",2011,"Other Diversion",220.8
-"375","Orkney Islands","Council Area",2011,"Other Diversion",5557.5
-"376","Perth and Kinross","Council Area",2011,"Other Diversion",995.5
-"377","Renfrewshire","Council Area",2011,"Other Diversion",2449.8
-"378","Scottish Borders","Council Area",2011,"Other Diversion",236.2
-"379","Shetland Islands","Council Area",2011,"Other Diversion",9684.1
-"380","South Ayrshire","Council Area",2011,"Other Diversion",1362.1
-"381","South Lanarkshire","Council Area",2011,"Other Diversion",398.8
-"382","Stirling","Council Area",2011,"Other Diversion",0
-"383","West Dunbartonshire","Council Area",2011,"Other Diversion",29.3
-"384","West Lothian","Council Area",2011,"Other Diversion",271.1
-"385","Aberdeen City","Council Area",2012,"Other Diversion",12
-"386","Aberdeenshire","Council Area",2012,"Other Diversion",0
-"387","Angus","Council Area",2012,"Other Diversion",3564.4
-"388","Argyll and Bute","Council Area",2012,"Other Diversion",6852.8
-"389","City of Edinburgh","Council Area",2012,"Other Diversion",2444.2
-"390","Clackmannanshire","Council Area",2012,"Other Diversion",1442.8
-"391","Dumfries and Galloway","Council Area",2012,"Other Diversion",36651.5
-"392","Dundee City","Council Area",2012,"Other Diversion",14653.1
-"393","East Ayrshire","Council Area",2012,"Other Diversion",60.6
-"394","East Dunbartonshire","Council Area",2012,"Other Diversion",1212.5
-"395","East Lothian","Council Area",2012,"Other Diversion",4685.7
-"396","East Renfrewshire","Council Area",2012,"Other Diversion",84.4
-"397","Falkirk","Council Area",2012,"Other Diversion",1870
-"398","Fife","Council Area",2012,"Other Diversion",992.6
-"399","Glasgow City","Council Area",2012,"Other Diversion",0
-"400","Highland","Council Area",2012,"Other Diversion",1857.3
-"401","Inverclyde","Council Area",2012,"Other Diversion",612.3
-"402","Midlothian","Council Area",2012,"Other Diversion",60.8
-"403","Moray","Council Area",2012,"Other Diversion",0
-"404","Na h-Eileanan Siar","Council Area",2012,"Other Diversion",1888.8
-"405","North Ayrshire","Council Area",2012,"Other Diversion",574
-"406","North Lanarkshire","Council Area",2012,"Other Diversion",126.7
-"407","Orkney Islands","Council Area",2012,"Other Diversion",5566.4
-"408","Perth and Kinross","Council Area",2012,"Other Diversion",911.9
-"409","Renfrewshire","Council Area",2012,"Other Diversion",3176.7
-"410","Scottish Borders","Council Area",2012,"Other Diversion",773.3
-"411","Shetland Islands","Council Area",2012,"Other Diversion",7603.4
-"412","South Ayrshire","Council Area",2012,"Other Diversion",1144.9
-"413","South Lanarkshire","Council Area",2012,"Other Diversion",362.6
-"414","Stirling","Council Area",2012,"Other Diversion",689
-"415","West Dunbartonshire","Council Area",2012,"Other Diversion",157.4
-"416","West Lothian","Council Area",2012,"Other Diversion",226.5
-"417","Aberdeen City","Council Area",2013,"Other Diversion",109.1
-"418","Aberdeenshire","Council Area",2013,"Other Diversion",170
-"419","Angus","Council Area",2013,"Other Diversion",5577.7
-"420","Argyll and Bute","Council Area",2013,"Other Diversion",8639
-"421","City of Edinburgh","Council Area",2013,"Other Diversion",2392.4
-"422","Clackmannanshire","Council Area",2013,"Other Diversion",1754.8
-"423","Dumfries and Galloway","Council Area",2013,"Other Diversion",27295.6
-"424","Dundee City","Council Area",2013,"Other Diversion",15579.2
-"425","East Ayrshire","Council Area",2013,"Other Diversion",1333.4
-"426","East Dunbartonshire","Council Area",2013,"Other Diversion",4670
-"427","East Lothian","Council Area",2013,"Other Diversion",0
-"428","East Renfrewshire","Council Area",2013,"Other Diversion",79.6
-"429","Falkirk","Council Area",2013,"Other Diversion",1954
-"430","Fife","Council Area",2013,"Other Diversion",1966.2
-"431","Glasgow City","Council Area",2013,"Other Diversion",0
-"432","Highland","Council Area",2013,"Other Diversion",3924.5
-"433","Inverclyde","Council Area",2013,"Other Diversion",31.8
-"434","Midlothian","Council Area",2013,"Other Diversion",52
-"435","Moray","Council Area",2013,"Other Diversion",0
-"436","Na h-Eileanan Siar","Council Area",2013,"Other Diversion",1712.7
-"437","North Ayrshire","Council Area",2013,"Other Diversion",726.7
-"438","North Lanarkshire","Council Area",2013,"Other Diversion",11829.5
-"439","Orkney Islands","Council Area",2013,"Other Diversion",5796.8
-"440","Perth and Kinross","Council Area",2013,"Other Diversion",3420.9
-"441","Renfrewshire","Council Area",2013,"Other Diversion",3327.1
-"442","Scottish Borders","Council Area",2013,"Other Diversion",1242.3
-"443","Shetland Islands","Council Area",2013,"Other Diversion",6636.3
-"444","South Ayrshire","Council Area",2013,"Other Diversion",4848.5
-"445","South Lanarkshire","Council Area",2013,"Other Diversion",375.5
-"446","Stirling","Council Area",2013,"Other Diversion",3958.3
-"447","West Dunbartonshire","Council Area",2013,"Other Diversion",275.9
-"448","West Lothian","Council Area",2013,"Other Diversion",778.6
-"449","Aberdeen City","Council Area",2014,"Other Diversion",286
-"450","Aberdeenshire","Council Area",2014,"Other Diversion",177.2
-"451","Angus","Council Area",2014,"Other Diversion",13049.6
-"452","Argyll and Bute","Council Area",2014,"Other Diversion",9511.3
-"453","City of Edinburgh","Council Area",2014,"Other Diversion",11160.3
-"454","Clackmannanshire","Council Area",2014,"Other Diversion",1084.9
-"455","Dumfries and Galloway","Council Area",2014,"Other Diversion",34722.4
-"456","Dundee City","Council Area",2014,"Other Diversion",39054.1
-"457","East Ayrshire","Council Area",2014,"Other Diversion",8613.6
-"458","East Dunbartonshire","Council Area",2014,"Other Diversion",6271.7
-"459","East Lothian","Council Area",2014,"Other Diversion",4007.9
-"460","East Renfrewshire","Council Area",2014,"Other Diversion",334.8
-"461","Falkirk","Council Area",2014,"Other Diversion",120.5
-"462","Fife","Council Area",2014,"Other Diversion",4485.3
-"463","Glasgow City","Council Area",2014,"Other Diversion",1837.7
-"464","Highland","Council Area",2014,"Other Diversion",1753.7
-"465","Inverclyde","Council Area",2014,"Other Diversion",142.2
-"466","Midlothian","Council Area",2014,"Other Diversion",27.3
-"467","Moray","Council Area",2014,"Other Diversion",0
-"468","Na h-Eileanan Siar","Council Area",2014,"Other Diversion",1909.8
-"469","North Ayrshire","Council Area",2014,"Other Diversion",612.8
-"470","North Lanarkshire","Council Area",2014,"Other Diversion",5980.1
-"471","Orkney Islands","Council Area",2014,"Other Diversion",5069.7
-"472","Perth and Kinross","Council Area",2014,"Other Diversion",1860.1
-"473","Renfrewshire","Council Area",2014,"Other Diversion",17708.6
-"474","Scottish Borders","Council Area",2014,"Other Diversion",940.4
-"475","Shetland Islands","Council Area",2014,"Other Diversion",6900.2
-"476","South Ayrshire","Council Area",2014,"Other Diversion",8621.6
-"477","South Lanarkshire","Council Area",2014,"Other Diversion",960.3
-"478","Stirling","Council Area",2014,"Other Diversion",1811.4
-"479","West Dunbartonshire","Council Area",2014,"Other Diversion",2420.8
-"480","West Lothian","Council Area",2014,"Other Diversion",1709.6
-"481","Aberdeen City","Council Area",2015,"Other Diversion",406.8
-"482","Aberdeenshire","Council Area",2015,"Other Diversion",172.1
-"483","Angus","Council Area",2015,"Other Diversion",10809.8
-"484","Argyll and Bute","Council Area",2015,"Other Diversion",9039.9
-"485","City of Edinburgh","Council Area",2015,"Other Diversion",13631.4
-"486","Clackmannanshire","Council Area",2015,"Other Diversion",2432.7
-"487","Dumfries and Galloway","Council Area",2015,"Other Diversion",35410.8
-"488","Dundee City","Council Area",2015,"Other Diversion",40187.3
-"489","East Ayrshire","Council Area",2015,"Other Diversion",7182.2
-"490","East Dunbartonshire","Council Area",2015,"Other Diversion",4435.5
-"491","East Lothian","Council Area",2015,"Other Diversion",2217.3
-"492","East Renfrewshire","Council Area",2015,"Other Diversion",241.4
-"493","Falkirk","Council Area",2015,"Other Diversion",4592.1
-"494","Fife","Council Area",2015,"Other Diversion",9087.7
-"495","Glasgow City","Council Area",2015,"Other Diversion",2360
-"496","Highland","Council Area",2015,"Other Diversion",1184.5
-"497","Inverclyde","Council Area",2015,"Other Diversion",141.1
-"498","Midlothian","Council Area",2015,"Other Diversion",7714.1
-"499","Moray","Council Area",2015,"Other Diversion",0
-"500","Na h-Eileanan Siar","Council Area",2015,"Other Diversion",1948.4
-"501","North Ayrshire","Council Area",2015,"Other Diversion",1586.8
-"502","North Lanarkshire","Council Area",2015,"Other Diversion",16624.8
-"503","Orkney Islands","Council Area",2015,"Other Diversion",4806.2
-"504","Perth and Kinross","Council Area",2015,"Other Diversion",8011
-"505","Renfrewshire","Council Area",2015,"Other Diversion",19821.3
-"506","Scottish Borders","Council Area",2015,"Other Diversion",892.2
-"507","Shetland Islands","Council Area",2015,"Other Diversion",7051.9
-"508","South Ayrshire","Council Area",2015,"Other Diversion",7500.4
-"509","South Lanarkshire","Council Area",2015,"Other Diversion",0
-"510","Stirling","Council Area",2015,"Other Diversion",1563
-"511","West Dunbartonshire","Council Area",2015,"Other Diversion",4138
-"512","West Lothian","Council Area",2015,"Other Diversion",4331.8
-"513","Aberdeen City","Council Area",2016,"Other Diversion",603.5
-"514","Aberdeenshire","Council Area",2016,"Other Diversion",1564.1
-"515","Angus","Council Area",2016,"Other Diversion",10205.9
-"516","Argyll and Bute","Council Area",2016,"Other Diversion",8186.2
-"517","City of Edinburgh","Council Area",2016,"Other Diversion",3425.6
-"518","Clackmannanshire","Council Area",2016,"Other Diversion",3897.7
-"519","Dumfries and Galloway","Council Area",2016,"Other Diversion",30173
-"520","Dundee City","Council Area",2016,"Other Diversion",40499.4
-"521","East Ayrshire","Council Area",2016,"Other Diversion",5934.9
-"522","East Dunbartonshire","Council Area",2016,"Other Diversion",5909
-"523","East Lothian","Council Area",2016,"Other Diversion",86.5
-"524","East Renfrewshire","Council Area",2016,"Other Diversion",791.1
-"525","Falkirk","Council Area",2016,"Other Diversion",11228.7
-"526","Fife","Council Area",2016,"Other Diversion",8182.6
-"527","Glasgow City","Council Area",2016,"Other Diversion",5983.2
-"528","Highland","Council Area",2016,"Other Diversion",995
-"529","Inverclyde","Council Area",2016,"Other Diversion",900.2
-"530","Midlothian","Council Area",2016,"Other Diversion",6629
-"531","Moray","Council Area",2016,"Other Diversion",0
-"532","Na h-Eileanan Siar","Council Area",2016,"Other Diversion",1929
-"533","North Ayrshire","Council Area",2016,"Other Diversion",1916.2
-"534","North Lanarkshire","Council Area",2016,"Other Diversion",25296.6
-"535","Orkney Islands","Council Area",2016,"Other Diversion",4996.8
-"536","Perth and Kinross","Council Area",2016,"Other Diversion",8688.8
-"537","Renfrewshire","Council Area",2016,"Other Diversion",22869.2
-"538","Scottish Borders","Council Area",2016,"Other Diversion",954.9
-"539","Shetland Islands","Council Area",2016,"Other Diversion",6952.9
-"540","South Ayrshire","Council Area",2016,"Other Diversion",5974.4
-"541","South Lanarkshire","Council Area",2016,"Other Diversion",0
-"542","Stirling","Council Area",2016,"Other Diversion",7834.8
-"543","West Dunbartonshire","Council Area",2016,"Other Diversion",4282.4
-"544","West Lothian","Council Area",2016,"Other Diversion",4894.2
-"545","Aberdeen City","Council Area",2017,"Other Diversion",17594.4
-"546","Aberdeenshire","Council Area",2017,"Other Diversion",1996.9
-"547","Angus","Council Area",2017,"Other Diversion",11839.7
-"548","Argyll and Bute","Council Area",2017,"Other Diversion",7322.8
-"549","City of Edinburgh","Council Area",2017,"Other Diversion",5205.7
-"550","Clackmannanshire","Council Area",2017,"Other Diversion",2867
-"551","Dumfries and Galloway","Council Area",2017,"Other Diversion",23318.3
-"552","Dundee City","Council Area",2017,"Other Diversion",37485.7
-"553","East Ayrshire","Council Area",2017,"Other Diversion",5353
-"554","East Dunbartonshire","Council Area",2017,"Other Diversion",6295
-"555","East Lothian","Council Area",2017,"Other Diversion",227.5
-"556","East Renfrewshire","Council Area",2017,"Other Diversion",1480.4
-"557","Falkirk","Council Area",2017,"Other Diversion",8504.1
-"558","Fife","Council Area",2017,"Other Diversion",12146.5
-"559","Glasgow City","Council Area",2017,"Other Diversion",13705.7
-"560","Highland","Council Area",2017,"Other Diversion",1492.6
-"561","Inverclyde","Council Area",2017,"Other Diversion",1528.5
-"562","Midlothian","Council Area",2017,"Other Diversion",1819.4
-"563","Moray","Council Area",2017,"Other Diversion",0.1
-"564","Na h-Eileanan Siar","Council Area",2017,"Other Diversion",1638.8
-"565","North Ayrshire","Council Area",2017,"Other Diversion",1777.8
-"566","North Lanarkshire","Council Area",2017,"Other Diversion",7765
-"567","Orkney Islands","Council Area",2017,"Other Diversion",4855.3
-"568","Perth and Kinross","Council Area",2017,"Other Diversion",4715.4
-"569","Renfrewshire","Council Area",2017,"Other Diversion",19871
-"570","Scottish Borders","Council Area",2017,"Other Diversion",1555.3
-"571","Shetland Islands","Council Area",2017,"Other Diversion",6798.3
-"572","South Ayrshire","Council Area",2017,"Other Diversion",6850
-"573","South Lanarkshire","Council Area",2017,"Other Diversion",0
-"574","Stirling","Council Area",2017,"Other Diversion",6186.6
-"575","West Dunbartonshire","Council Area",2017,"Other Diversion",3653.6
-"576","West Lothian","Council Area",2017,"Other Diversion",6688
-"577","Aberdeen City","Council Area",2018,"Other Diversion",27438.1
-"578","Aberdeenshire","Council Area",2018,"Other Diversion",2783.8
-"579","Angus","Council Area",2018,"Other Diversion",22346.1
-"580","Argyll and Bute","Council Area",2018,"Other Diversion",7725.1
-"581","City of Edinburgh","Council Area",2018,"Other Diversion",17678
-"582","Clackmannanshire","Council Area",2018,"Other Diversion",491.6
-"583","Dumfries and Galloway","Council Area",2018,"Other Diversion",22504.5
-"584","Dundee City","Council Area",2018,"Other Diversion",34672.6
-"585","East Ayrshire","Council Area",2018,"Other Diversion",4956.8
-"586","East Dunbartonshire","Council Area",2018,"Other Diversion",9994.2
-"587","East Lothian","Council Area",2018,"Other Diversion",1987
-"588","East Renfrewshire","Council Area",2018,"Other Diversion",1084.6
-"589","Falkirk","Council Area",2018,"Other Diversion",3175.3
-"590","Fife","Council Area",2018,"Other Diversion",10560.3
-"591","Glasgow City","Council Area",2018,"Other Diversion",17377.3
-"592","Highland","Council Area",2018,"Other Diversion",7279.9
-"593","Inverclyde","Council Area",2018,"Other Diversion",1724.2
-"594","Midlothian","Council Area",2018,"Other Diversion",5193.6
-"595","Moray","Council Area",2018,"Other Diversion",0
-"596","Na h-Eileanan Siar","Council Area",2018,"Other Diversion",1756
-"597","North Ayrshire","Council Area",2018,"Other Diversion",6815.2
-"598","North Lanarkshire","Council Area",2018,"Other Diversion",19970
-"599","Orkney Islands","Council Area",2018,"Other Diversion",4825.7
-"600","Perth and Kinross","Council Area",2018,"Other Diversion",4045.4
-"601","Renfrewshire","Council Area",2018,"Other Diversion",24087
-"602","Scottish Borders","Council Area",2018,"Other Diversion",1455.3
-"603","Shetland Islands","Council Area",2018,"Other Diversion",6476.6
-"604","South Ayrshire","Council Area",2018,"Other Diversion",6490.5
-"605","South Lanarkshire","Council Area",2018,"Other Diversion",11261.5
-"606","Stirling","Council Area",2018,"Other Diversion",434
-"607","West Dunbartonshire","Council Area",2018,"Other Diversion",4036.5
-"608","West Lothian","Council Area",2018,"Other Diversion",7729.9
-"609","Aberdeen City","Council Area",2019,"Other Diversion",27406.9
-"610","Aberdeenshire","Council Area",2019,"Other Diversion",2617.8
-"611","Angus","Council Area",2019,"Other Diversion",18781.7
-"612","Argyll and Bute","Council Area",2019,"Other Diversion",6974.5
-"613","City of Edinburgh","Council Area",2019,"Other Diversion",109305.4
-"614","Clackmannanshire","Council Area",2019,"Other Diversion",7
-"615","Dumfries and Galloway","Council Area",2019,"Other Diversion",34466.7
-"616","Dundee City","Council Area",2019,"Other Diversion",35664.3
-"617","East Ayrshire","Council Area",2019,"Other Diversion",4705.2
-"618","East Dunbartonshire","Council Area",2019,"Other Diversion",13257.6
-"619","East Lothian","Council Area",2019,"Other Diversion",14663.6
-"620","East Renfrewshire","Council Area",2019,"Other Diversion",1103.5
-"621","Falkirk","Council Area",2019,"Other Diversion",2232.7
-"622","Fife","Council Area",2019,"Other Diversion",18846.6
-"623","Glasgow City","Council Area",2019,"Other Diversion",66480.4
-"624","Highland","Council Area",2019,"Other Diversion",9390.4
-"625","Inverclyde","Council Area",2019,"Other Diversion",1770.6
-"626","Midlothian","Council Area",2019,"Other Diversion",15599.9
-"627","Moray","Council Area",2019,"Other Diversion",0
-"628","Na h-Eileanan Siar","Council Area",2019,"Other Diversion",1891.8
-"629","North Ayrshire","Council Area",2019,"Other Diversion",10027.5
-"630","North Lanarkshire","Council Area",2019,"Other Diversion",57763.8
-"631","Orkney Islands","Council Area",2019,"Other Diversion",5217.1
-"632","Perth and Kinross","Council Area",2019,"Other Diversion",4275.1
-"633","Renfrewshire","Council Area",2019,"Other Diversion",24764.1
-"634","Scottish Borders","Council Area",2019,"Other Diversion",11517.5
-"635","Shetland Islands","Council Area",2019,"Other Diversion",6083.5
-"636","South Ayrshire","Council Area",2019,"Other Diversion",5168.7
-"637","South Lanarkshire","Council Area",2019,"Other Diversion",41761.1
-"638","Stirling","Council Area",2019,"Other Diversion",178.9
-"639","West Dunbartonshire","Council Area",2019,"Other Diversion",4040.1
-"640","West Lothian","Council Area",2019,"Other Diversion",20830.9
-"641","Aberdeen City","Council Area",2020,"Other Diversion",29781.9
-"642","Aberdeenshire","Council Area",2020,"Other Diversion",2505.4
-"643","Angus","Council Area",2020,"Other Diversion",18924.1
-"644","Argyll and Bute","Council Area",2020,"Other Diversion",6963.3
-"645","City of Edinburgh","Council Area",2020,"Other Diversion",120302.2
-"646","Clackmannanshire","Council Area",2020,"Other Diversion",1.9
-"647","Dumfries and Galloway","Council Area",2020,"Other Diversion",33519.5
-"648","Dundee City","Council Area",2020,"Other Diversion",36409.6
-"649","East Ayrshire","Council Area",2020,"Other Diversion",5671.2
-"650","East Dunbartonshire","Council Area",2020,"Other Diversion",19544.9
-"651","East Lothian","Council Area",2020,"Other Diversion",19668.7
-"652","East Renfrewshire","Council Area",2020,"Other Diversion",14384.3
-"653","Falkirk","Council Area",2020,"Other Diversion",3778
-"654","Fife","Council Area",2020,"Other Diversion",14633.3
-"655","Glasgow City","Council Area",2020,"Other Diversion",110267.9
-"656","Highland","Council Area",2020,"Other Diversion",5639.4
-"657","Inverclyde","Council Area",2020,"Other Diversion",2030.3
-"658","Midlothian","Council Area",2020,"Other Diversion",17332.2
-"659","Moray","Council Area",2020,"Other Diversion",0
-"660","Na h-Eileanan Siar","Council Area",2020,"Other Diversion",40.4
-"661","North Ayrshire","Council Area",2020,"Other Diversion",24796.4
-"662","North Lanarkshire","Council Area",2020,"Other Diversion",76848.6
-"663","Orkney Islands","Council Area",2020,"Other Diversion",3259
-"664","Perth and Kinross","Council Area",2020,"Other Diversion",5562.7
-"665","Renfrewshire","Council Area",2020,"Other Diversion",32593
-"666","Scottish Borders","Council Area",2020,"Other Diversion",23808.5
-"667","Shetland Islands","Council Area",2020,"Other Diversion",5234.5
-"668","South Ayrshire","Council Area",2020,"Other Diversion",5468.6
-"669","South Lanarkshire","Council Area",2020,"Other Diversion",64167.8
-"670","Stirling","Council Area",2020,"Other Diversion",295.3
-"671","West Dunbartonshire","Council Area",2020,"Other Diversion",4977.1
-"672","West Lothian","Council Area",2020,"Other Diversion",39406.2
-"673","Aberdeen City","Council Area",2021,"Other Diversion",41798.9
-"674","Aberdeenshire","Council Area",2021,"Other Diversion",2946.5
-"675","Angus","Council Area",2021,"Other Diversion",22804.9
-"676","Argyll and Bute","Council Area",2021,"Other Diversion",6805.8
-"677","City of Edinburgh","Council Area",2021,"Other Diversion",120927.9
-"678","Clackmannanshire","Council Area",2021,"Other Diversion",6.1
-"679","Dumfries and Galloway","Council Area",2021,"Other Diversion",32090
-"680","Dundee City","Council Area",2021,"Other Diversion",41334.8
-"681","East Ayrshire","Council Area",2021,"Other Diversion",5100.8
-"682","East Dunbartonshire","Council Area",2021,"Other Diversion",25518.8
-"683","East Lothian","Council Area",2021,"Other Diversion",19372.6
-"684","East Renfrewshire","Council Area",2021,"Other Diversion",16016
-"685","Falkirk","Council Area",2021,"Other Diversion",3976.5
-"686","Fife","Council Area",2021,"Other Diversion",14651
-"687","Glasgow City","Council Area",2021,"Other Diversion",90855
-"688","Highland","Council Area",2021,"Other Diversion",6021.7
-"689","Inverclyde","Council Area",2021,"Other Diversion",2651.2
-"690","Midlothian","Council Area",2021,"Other Diversion",17650.2
-"691","Moray","Council Area",2021,"Other Diversion",0
-"692","Na h-Eileanan Siar","Council Area",2021,"Other Diversion",55.3
-"693","North Ayrshire","Council Area",2021,"Other Diversion",24138.9
-"694","North Lanarkshire","Council Area",2021,"Other Diversion",72272
-"695","Orkney Islands","Council Area",2021,"Other Diversion",4603.2
-"696","Perth and Kinross","Council Area",2021,"Other Diversion",5861.4
-"697","Renfrewshire","Council Area",2021,"Other Diversion",34255.9
-"698","Scottish Borders","Council Area",2021,"Other Diversion",24434.7
-"699","Shetland Islands","Council Area",2021,"Other Diversion",5593.7
-"700","South Ayrshire","Council Area",2021,"Other Diversion",5755.1
-"701","South Lanarkshire","Council Area",2021,"Other Diversion",60607.7
-"702","Stirling","Council Area",2021,"Other Diversion",744.7
-"703","West Dunbartonshire","Council Area",2021,"Other Diversion",5012.8
-"704","West Lothian","Council Area",2021,"Other Diversion",44051.4
-"705","Aberdeen City","Council Area",2011,"Recycled",34661.9
-"706","Aberdeenshire","Council Area",2011,"Recycled",49734.9
-"707","Angus","Council Area",2011,"Recycled",25991.9
-"708","Argyll and Bute","Council Area",2011,"Recycled",12638.4
-"709","City of Edinburgh","Council Area",2011,"Recycled",56936.3
-"710","Clackmannanshire","Council Area",2011,"Recycled",15911.4
-"711","Dumfries and Galloway","Council Area",2011,"Recycled",15857.7
-"712","Dundee City","Council Area",2011,"Recycled",22141.1
-"713","East Ayrshire","Council Area",2011,"Recycled",28510.8
-"714","East Dunbartonshire","Council Area",2011,"Recycled",21006.3
-"715","East Lothian","Council Area",2011,"Recycled",23432.7
-"716","East Renfrewshire","Council Area",2011,"Recycled",23912.2
-"717","Falkirk","Council Area",2011,"Recycled",41207.8
-"718","Fife","Council Area",2011,"Recycled",114983.4
-"719","Glasgow City","Council Area",2011,"Recycled",67016.9
-"720","Highland","Council Area",2011,"Recycled",54577.4
-"721","Inverclyde","Council Area",2011,"Recycled",13990.8
-"722","Midlothian","Council Area",2011,"Recycled",20627.2
-"723","Moray","Council Area",2011,"Recycled",23337.8
-"724","Na h-Eileanan Siar","Council Area",2011,"Recycled",2151.3
-"725","North Ayrshire","Council Area",2011,"Recycled",35318.9
-"726","North Lanarkshire","Council Area",2011,"Recycled",62955.9
-"727","Orkney Islands","Council Area",2011,"Recycled",1884.1
-"728","Perth and Kinross","Council Area",2011,"Recycled",40888.8
-"729","Renfrewshire","Council Area",2011,"Recycled",34891.5
-"730","Scottish Borders","Council Area",2011,"Recycled",24897.6
-"731","Shetland Islands","Council Area",2011,"Recycled",1657
-"732","South Ayrshire","Council Area",2011,"Recycled",26833.5
-"733","South Lanarkshire","Council Area",2011,"Recycled",57174.4
-"734","Stirling","Council Area",2011,"Recycled",23538.6
-"735","West Dunbartonshire","Council Area",2011,"Recycled",18505.5
-"736","West Lothian","Council Area",2011,"Recycled",32573.2
-"737","Aberdeen City","Council Area",2012,"Recycled",36242.2
-"738","Aberdeenshire","Council Area",2012,"Recycled",47889.2
-"739","Angus","Council Area",2012,"Recycled",24388.6
-"740","Argyll and Bute","Council Area",2012,"Recycled",13996.1
-"741","City of Edinburgh","Council Area",2012,"Recycled",66451.6
-"742","Clackmannanshire","Council Area",2012,"Recycled",16348
-"743","Dumfries and Galloway","Council Area",2012,"Recycled",15294.3
-"744","Dundee City","Council Area",2012,"Recycled",20793.9
-"745","East Ayrshire","Council Area",2012,"Recycled",26048.2
-"746","East Dunbartonshire","Council Area",2012,"Recycled",20155.2
-"747","East Lothian","Council Area",2012,"Recycled",23497.8
-"748","East Renfrewshire","Council Area",2012,"Recycled",23745
-"749","Falkirk","Council Area",2012,"Recycled",41978.6
-"750","Fife","Council Area",2012,"Recycled",102310.2
-"751","Glasgow City","Council Area",2012,"Recycled",69113.5
-"752","Highland","Council Area",2012,"Recycled",54889.9
-"753","Inverclyde","Council Area",2012,"Recycled",16842.7
-"754","Midlothian","Council Area",2012,"Recycled",19278.3
-"755","Moray","Council Area",2012,"Recycled",25904.7
-"756","Na h-Eileanan Siar","Council Area",2012,"Recycled",2362.1
-"757","North Ayrshire","Council Area",2012,"Recycled",32408
-"758","North Lanarkshire","Council Area",2012,"Recycled",61886.1
-"759","Orkney Islands","Council Area",2012,"Recycled",1610.5
-"760","Perth and Kinross","Council Area",2012,"Recycled",40340.7
-"761","Renfrewshire","Council Area",2012,"Recycled",31911.1
-"762","Scottish Borders","Council Area",2012,"Recycled",22647.9
-"763","Shetland Islands","Council Area",2012,"Recycled",1454.4
-"764","South Ayrshire","Council Area",2012,"Recycled",26205.6
-"765","South Lanarkshire","Council Area",2012,"Recycled",56435.9
-"766","Stirling","Council Area",2012,"Recycled",24051.9
-"767","West Dunbartonshire","Council Area",2012,"Recycled",17165
-"768","West Lothian","Council Area",2012,"Recycled",31001.2
-"769","Aberdeen City","Council Area",2013,"Recycled",34955.9
-"770","Aberdeenshire","Council Area",2013,"Recycled",47218
-"771","Angus","Council Area",2013,"Recycled",23416
-"772","Argyll and Bute","Council Area",2013,"Recycled",15417
-"773","City of Edinburgh","Council Area",2013,"Recycled",67796.2
-"774","Clackmannanshire","Council Area",2013,"Recycled",16043.9
-"775","Dumfries and Galloway","Council Area",2013,"Recycled",16204.5
-"776","Dundee City","Council Area",2013,"Recycled",19111
-"777","East Ayrshire","Council Area",2013,"Recycled",28382
-"778","East Dunbartonshire","Council Area",2013,"Recycled",21988.5
-"779","East Lothian","Council Area",2013,"Recycled",20879.1
-"780","East Renfrewshire","Council Area",2013,"Recycled",24738.1
-"781","Falkirk","Council Area",2013,"Recycled",38162.1
-"782","Fife","Council Area",2013,"Recycled",105601.2
-"783","Glasgow City","Council Area",2013,"Recycled",61309.9
-"784","Highland","Council Area",2013,"Recycled",55585.7
-"785","Inverclyde","Council Area",2013,"Recycled",16183.9
-"786","Midlothian","Council Area",2013,"Recycled",16960.2
-"787","Moray","Council Area",2013,"Recycled",24423.3
-"788","Na h-Eileanan Siar","Council Area",2013,"Recycled",2568.6
-"789","North Ayrshire","Council Area",2013,"Recycled",34616.9
-"790","North Lanarkshire","Council Area",2013,"Recycled",64401.2
-"791","Orkney Islands","Council Area",2013,"Recycled",1715.4
-"792","Perth and Kinross","Council Area",2013,"Recycled",39224.4
-"793","Renfrewshire","Council Area",2013,"Recycled",34740.7
-"794","Scottish Borders","Council Area",2013,"Recycled",21178.6
-"795","Shetland Islands","Council Area",2013,"Recycled",1234.7
-"796","South Ayrshire","Council Area",2013,"Recycled",23526.4
-"797","South Lanarkshire","Council Area",2013,"Recycled",56153.1
-"798","Stirling","Council Area",2013,"Recycled",21448.2
-"799","West Dunbartonshire","Council Area",2013,"Recycled",15903.2
-"800","West Lothian","Council Area",2013,"Recycled",31155.4
-"801","Aberdeen City","Council Area",2014,"Recycled",36741.8
-"802","Aberdeenshire","Council Area",2014,"Recycled",52478
-"803","Angus","Council Area",2014,"Recycled",30879
-"804","Argyll and Bute","Council Area",2014,"Recycled",15655.6
-"805","City of Edinburgh","Council Area",2014,"Recycled",70451.2
-"806","Clackmannanshire","Council Area",2014,"Recycled",14929.3
-"807","Dumfries and Galloway","Council Area",2014,"Recycled",15940.1
-"808","Dundee City","Council Area",2014,"Recycled",20289.6
-"809","East Ayrshire","Council Area",2014,"Recycled",28379.9
-"810","East Dunbartonshire","Council Area",2014,"Recycled",23532.8
-"811","East Lothian","Council Area",2014,"Recycled",22529.1
-"812","East Renfrewshire","Council Area",2014,"Recycled",25950.3
-"813","Falkirk","Council Area",2014,"Recycled",39980.7
-"814","Fife","Council Area",2014,"Recycled",101059.7
-"815","Glasgow City","Council Area",2014,"Recycled",57839.4
-"816","Highland","Council Area",2014,"Recycled",60459.3
-"817","Inverclyde","Council Area",2014,"Recycled",16169.6
-"818","Midlothian","Council Area",2014,"Recycled",19110.7
-"819","Moray","Council Area",2014,"Recycled",27681.1
-"820","Na h-Eileanan Siar","Council Area",2014,"Recycled",2914.4
-"821","North Ayrshire","Council Area",2014,"Recycled",36743.9
-"822","North Lanarkshire","Council Area",2014,"Recycled",62527.6
-"823","Orkney Islands","Council Area",2014,"Recycled",1830.7
-"824","Perth and Kinross","Council Area",2014,"Recycled",42372
-"825","Renfrewshire","Council Area",2014,"Recycled",37657.3
-"826","Scottish Borders","Council Area",2014,"Recycled",18345.2
-"827","Shetland Islands","Council Area",2014,"Recycled",899.3
-"828","South Ayrshire","Council Area",2014,"Recycled",27750.5
-"829","South Lanarkshire","Council Area",2014,"Recycled",68999.9
-"830","Stirling","Council Area",2014,"Recycled",21551.3
-"831","West Dunbartonshire","Council Area",2014,"Recycled",17876
-"832","West Lothian","Council Area",2014,"Recycled",33715.4
-"833","Aberdeen City","Council Area",2015,"Recycled",36678.9
-"834","Aberdeenshire","Council Area",2015,"Recycled",56902.1
-"835","Angus","Council Area",2015,"Recycled",34102
-"836","Argyll and Bute","Council Area",2015,"Recycled",17513.9
-"837","City of Edinburgh","Council Area",2015,"Recycled",80129.7
-"838","Clackmannanshire","Council Area",2015,"Recycled",12791.6
-"839","Dumfries and Galloway","Council Area",2015,"Recycled",16915
-"840","Dundee City","Council Area",2015,"Recycled",22373
-"841","East Ayrshire","Council Area",2015,"Recycled",29860.9
-"842","East Dunbartonshire","Council Area",2015,"Recycled",27454.5
-"843","East Lothian","Council Area",2015,"Recycled",26162.9
-"844","East Renfrewshire","Council Area",2015,"Recycled",26449.2
-"845","Falkirk","Council Area",2015,"Recycled",39010.7
-"846","Fife","Council Area",2015,"Recycled",99965.3
-"847","Glasgow City","Council Area",2015,"Recycled",57624.1
-"848","Highland","Council Area",2015,"Recycled",58147.3
-"849","Inverclyde","Council Area",2015,"Recycled",15592.1
-"850","Midlothian","Council Area",2015,"Recycled",20135.6
-"851","Moray","Council Area",2015,"Recycled",28777.9
-"852","Na h-Eileanan Siar","Council Area",2015,"Recycled",2972.6
-"853","North Ayrshire","Council Area",2015,"Recycled",35948.5
-"854","North Lanarkshire","Council Area",2015,"Recycled",62339.4
-"855","Orkney Islands","Council Area",2015,"Recycled",1801.5
-"856","Perth and Kinross","Council Area",2015,"Recycled",41328.4
-"857","Renfrewshire","Council Area",2015,"Recycled",36426.8
-"858","Scottish Borders","Council Area",2015,"Recycled",18600.4
-"859","Shetland Islands","Council Area",2015,"Recycled",939.4
-"860","South Ayrshire","Council Area",2015,"Recycled",28652.7
-"861","South Lanarkshire","Council Area",2015,"Recycled",74240.8
-"862","Stirling","Council Area",2015,"Recycled",22583.9
-"863","West Dunbartonshire","Council Area",2015,"Recycled",20914.4
-"864","West Lothian","Council Area",2015,"Recycled",35092.2
-"865","Aberdeen City","Council Area",2016,"Recycled",37498.6
-"866","Aberdeenshire","Council Area",2016,"Recycled",57304.7
-"867","Angus","Council Area",2016,"Recycled",33371.1
-"868","Argyll and Bute","Council Area",2016,"Recycled",18188.3
-"869","City of Edinburgh","Council Area",2016,"Recycled",86317.3
-"870","Clackmannanshire","Council Area",2016,"Recycled",15305.9
-"871","Dumfries and Galloway","Council Area",2016,"Recycled",17659.5
-"872","Dundee City","Council Area",2016,"Recycled",22860.6
-"873","East Ayrshire","Council Area",2016,"Recycled",30062.2
-"874","East Dunbartonshire","Council Area",2016,"Recycled",27085
-"875","East Lothian","Council Area",2016,"Recycled",26337
-"876","East Renfrewshire","Council Area",2016,"Recycled",29009.9
-"877","Falkirk","Council Area",2016,"Recycled",36831.6
-"878","Fife","Council Area",2016,"Recycled",102608.6
-"879","Glasgow City","Council Area",2016,"Recycled",54552.4
-"880","Highland","Council Area",2016,"Recycled",58231.5
-"881","Inverclyde","Council Area",2016,"Recycled",15692.5
-"882","Midlothian","Council Area",2016,"Recycled",21928.5
-"883","Moray","Council Area",2016,"Recycled",30696.5
-"884","Na h-Eileanan Siar","Council Area",2016,"Recycled",3607.5
-"885","North Ayrshire","Council Area",2016,"Recycled",35308.8
-"886","North Lanarkshire","Council Area",2016,"Recycled",66207.5
-"887","Orkney Islands","Council Area",2016,"Recycled",2006.9
-"888","Perth and Kinross","Council Area",2016,"Recycled",43032.7
-"889","Renfrewshire","Council Area",2016,"Recycled",40546.8
-"890","Scottish Borders","Council Area",2016,"Recycled",20264.6
-"891","Shetland Islands","Council Area",2016,"Recycled",786.6
-"892","South Ayrshire","Council Area",2016,"Recycled",28189.8
-"893","South Lanarkshire","Council Area",2016,"Recycled",80820.5
-"894","Stirling","Council Area",2016,"Recycled",24236.5
-"895","West Dunbartonshire","Council Area",2016,"Recycled",21784.9
-"896","West Lothian","Council Area",2016,"Recycled",36591.1
-"897","Aberdeen City","Council Area",2017,"Recycled",38568.2
-"898","Aberdeenshire","Council Area",2017,"Recycled",55714
-"899","Angus","Council Area",2017,"Recycled",31071.7
-"900","Argyll and Bute","Council Area",2017,"Recycled",19536.2
-"901","City of Edinburgh","Council Area",2017,"Recycled",82277.6
-"902","Clackmannanshire","Council Area",2017,"Recycled",16196
-"903","Dumfries and Galloway","Council Area",2017,"Recycled",21245.2
-"904","Dundee City","Council Area",2017,"Recycled",22844.4
-"905","East Ayrshire","Council Area",2017,"Recycled",29547.4
-"906","East Dunbartonshire","Council Area",2017,"Recycled",27043
-"907","East Lothian","Council Area",2017,"Recycled",26884.9
-"908","East Renfrewshire","Council Area",2017,"Recycled",31936.9
-"909","Falkirk","Council Area",2017,"Recycled",41727.8
-"910","Fife","Council Area",2017,"Recycled",97545.8
-"911","Glasgow City","Council Area",2017,"Recycled",59875.7
-"912","Highland","Council Area",2017,"Recycled",56704.4
-"913","Inverclyde","Council Area",2017,"Recycled",15770.9
-"914","Midlothian","Council Area",2017,"Recycled",22049.3
-"915","Moray","Council Area",2017,"Recycled",29517
-"916","Na h-Eileanan Siar","Council Area",2017,"Recycled",3461.4
-"917","North Ayrshire","Council Area",2017,"Recycled",35124.8
-"918","North Lanarkshire","Council Area",2017,"Recycled",62036.9
-"919","Orkney Islands","Council Area",2017,"Recycled",1979.5
-"920","Perth and Kinross","Council Area",2017,"Recycled",41577.9
-"921","Renfrewshire","Council Area",2017,"Recycled",39922.8
-"922","Scottish Borders","Council Area",2017,"Recycled",21324.2
-"923","Shetland Islands","Council Area",2017,"Recycled",778.1
-"924","South Ayrshire","Council Area",2017,"Recycled",29793.5
-"925","South Lanarkshire","Council Area",2017,"Recycled",71752.6
-"926","Stirling","Council Area",2017,"Recycled",22470.2
-"927","West Dunbartonshire","Council Area",2017,"Recycled",20735.3
-"928","West Lothian","Council Area",2017,"Recycled",43556.3
-"929","Aberdeen City","Council Area",2018,"Recycled",40483.2
-"930","Aberdeenshire","Council Area",2018,"Recycled",52298.3
-"931","Angus","Council Area",2018,"Recycled",29889.8
-"932","Argyll and Bute","Council Area",2018,"Recycled",18149.5
-"933","City of Edinburgh","Council Area",2018,"Recycled",74961.8
-"934","Clackmannanshire","Council Area",2018,"Recycled",14705.8
-"935","Dumfries and Galloway","Council Area",2018,"Recycled",21757.5
-"936","Dundee City","Council Area",2018,"Recycled",21760.9
-"937","East Ayrshire","Council Area",2018,"Recycled",27552.8
-"938","East Dunbartonshire","Council Area",2018,"Recycled",28212.8
-"939","East Lothian","Council Area",2018,"Recycled",26623
-"940","East Renfrewshire","Council Area",2018,"Recycled",29089.6
-"941","Falkirk","Council Area",2018,"Recycled",34800
-"942","Fife","Council Area",2018,"Recycled",85471
-"943","Glasgow City","Council Area",2018,"Recycled",60438.4
-"944","Highland","Council Area",2018,"Recycled",54571
-"945","Inverclyde","Council Area",2018,"Recycled",15689.6
-"946","Midlothian","Council Area",2018,"Recycled",24369
-"947","Moray","Council Area",2018,"Recycled",27256.5
-"948","Na h-Eileanan Siar","Council Area",2018,"Recycled",3304.8
-"949","North Ayrshire","Council Area",2018,"Recycled",33509.6
-"950","North Lanarkshire","Council Area",2018,"Recycled",63879
-"951","Orkney Islands","Council Area",2018,"Recycled",2153
-"952","Perth and Kinross","Council Area",2018,"Recycled",37120
-"953","Renfrewshire","Council Area",2018,"Recycled",39998.1
-"954","Scottish Borders","Council Area",2018,"Recycled",20365
-"955","Shetland Islands","Council Area",2018,"Recycled",1017
-"956","South Ayrshire","Council Area",2018,"Recycled",29339.9
-"957","South Lanarkshire","Council Area",2018,"Recycled",66675.8
-"958","Stirling","Council Area",2018,"Recycled",22687.5
-"959","West Dunbartonshire","Council Area",2018,"Recycled",18205.7
-"960","West Lothian","Council Area",2018,"Recycled",48340.4
-"961","Aberdeen City","Council Area",2019,"Recycled",42230.1
-"962","Aberdeenshire","Council Area",2019,"Recycled",54017.9
-"963","Angus","Council Area",2019,"Recycled",31057.8
-"964","Argyll and Bute","Council Area",2019,"Recycled",18101.4
-"965","City of Edinburgh","Council Area",2019,"Recycled",74177.5
-"966","Clackmannanshire","Council Area",2019,"Recycled",14125
-"967","Dumfries and Galloway","Council Area",2019,"Recycled",22672.4
-"968","Dundee City","Council Area",2019,"Recycled",25074.5
-"969","East Ayrshire","Council Area",2019,"Recycled",29299.9
-"970","East Dunbartonshire","Council Area",2019,"Recycled",29145
-"971","East Lothian","Council Area",2019,"Recycled",27643.6
-"972","East Renfrewshire","Council Area",2019,"Recycled",32953.3
-"973","Falkirk","Council Area",2019,"Recycled",37134.3
-"974","Fife","Council Area",2019,"Recycled",77856
-"975","Glasgow City","Council Area",2019,"Recycled",62200.6
-"976","Highland","Council Area",2019,"Recycled",51441.5
-"977","Inverclyde","Council Area",2019,"Recycled",14944.5
-"978","Midlothian","Council Area",2019,"Recycled",20643.4
-"979","Moray","Council Area",2019,"Recycled",27829.3
-"980","Na h-Eileanan Siar","Council Area",2019,"Recycled",2817.3
-"981","North Ayrshire","Council Area",2019,"Recycled",33987.6
-"982","North Lanarkshire","Council Area",2019,"Recycled",60461.9
-"983","Orkney Islands","Council Area",2019,"Recycled",1961.9
-"984","Perth and Kinross","Council Area",2019,"Recycled",39172.2
-"985","Renfrewshire","Council Area",2019,"Recycled",43211.4
-"986","Scottish Borders","Council Area",2019,"Recycled",25718.1
-"987","Shetland Islands","Council Area",2019,"Recycled",1651.6
-"988","South Ayrshire","Council Area",2019,"Recycled",30351
-"989","South Lanarkshire","Council Area",2019,"Recycled",68135.5
-"990","Stirling","Council Area",2019,"Recycled",23291.8
-"991","West Dunbartonshire","Council Area",2019,"Recycled",17871.1
-"992","West Lothian","Council Area",2019,"Recycled",45095.4
-"993","Aberdeen City","Council Area",2020,"Recycled",43778.5
-"994","Aberdeenshire","Council Area",2020,"Recycled",46942.2
-"995","Angus","Council Area",2020,"Recycled",30226.5
-"996","Argyll and Bute","Council Area",2020,"Recycled",13261.8
-"997","City of Edinburgh","Council Area",2020,"Recycled",74466.9
-"998","Clackmannanshire","Council Area",2020,"Recycled",11296.1
-"999","Dumfries and Galloway","Council Area",2020,"Recycled",19580.8
-"1000","Dundee City","Council Area",2020,"Recycled",22056.6
-"1001","East Ayrshire","Council Area",2020,"Recycled",21507.8
-"1002","East Dunbartonshire","Council Area",2020,"Recycled",27776.1
-"1003","East Lothian","Council Area",2020,"Recycled",27136.8
-"1004","East Renfrewshire","Council Area",2020,"Recycled",25097.9
-"1005","Falkirk","Council Area",2020,"Recycled",39438.3
-"1006","Fife","Council Area",2020,"Recycled",68218.9
-"1007","Glasgow City","Council Area",2020,"Recycled",78816
-"1008","Highland","Council Area",2020,"Recycled",38909.2
-"1009","Inverclyde","Council Area",2020,"Recycled",10760
-"1010","Midlothian","Council Area",2020,"Recycled",19937.7
-"1011","Moray","Council Area",2020,"Recycled",22792.1
-"1012","Na h-Eileanan Siar","Council Area",2020,"Recycled",4553.2
-"1013","North Ayrshire","Council Area",2020,"Recycled",32176.8
-"1014","North Lanarkshire","Council Area",2020,"Recycled",61714.7
-"1015","Orkney Islands","Council Area",2020,"Recycled",1984.5
-"1016","Perth and Kinross","Council Area",2020,"Recycled",38311.5
-"1017","Renfrewshire","Council Area",2020,"Recycled",41262.2
-"1018","Scottish Borders","Council Area",2020,"Recycled",26770.9
-"1019","Shetland Islands","Council Area",2020,"Recycled",1673.8
-"1020","South Ayrshire","Council Area",2020,"Recycled",31201.8
-"1021","South Lanarkshire","Council Area",2020,"Recycled",62198.5
-"1022","Stirling","Council Area",2020,"Recycled",21295.2
-"1023","West Dunbartonshire","Council Area",2020,"Recycled",16336.7
-"1024","West Lothian","Council Area",2020,"Recycled",38785.7
-"1025","Aberdeen City","Council Area",2021,"Recycled",42573.7
-"1026","Aberdeenshire","Council Area",2021,"Recycled",48265.3
-"1027","Angus","Council Area",2021,"Recycled",29592.1
-"1028","Argyll and Bute","Council Area",2021,"Recycled",19286.1
-"1029","City of Edinburgh","Council Area",2021,"Recycled",79270.4
-"1030","Clackmannanshire","Council Area",2021,"Recycled",11880.3
-"1031","Dumfries and Galloway","Council Area",2021,"Recycled",26472.9
-"1032","Dundee City","Council Area",2021,"Recycled",21225.5
-"1033","East Ayrshire","Council Area",2021,"Recycled",25875.8
-"1034","East Dunbartonshire","Council Area",2021,"Recycled",26111.8
-"1035","East Lothian","Council Area",2021,"Recycled",29093
-"1036","East Renfrewshire","Council Area",2021,"Recycled",23572.7
-"1037","Falkirk","Council Area",2021,"Recycled",36258.1
-"1038","Fife","Council Area",2021,"Recycled",72787.6
-"1039","Glasgow City","Council Area",2021,"Recycled",70669.3
-"1040","Highland","Council Area",2021,"Recycled",43337.2
-"1041","Inverclyde","Council Area",2021,"Recycled",12906.2
-"1042","Midlothian","Council Area",2021,"Recycled",20757.6
-"1043","Moray","Council Area",2021,"Recycled",22209.9
-"1044","Na h-Eileanan Siar","Council Area",2021,"Recycled",4733.2
-"1045","North Ayrshire","Council Area",2021,"Recycled",35513.3
-"1046","North Lanarkshire","Council Area",2021,"Recycled",69608.6
-"1047","Orkney Islands","Council Area",2021,"Recycled",2215.5
-"1048","Perth and Kinross","Council Area",2021,"Recycled",38802.1
-"1049","Renfrewshire","Council Area",2021,"Recycled",44194.6
-"1050","Scottish Borders","Council Area",2021,"Recycled",29910.9
-"1051","Shetland Islands","Council Area",2021,"Recycled",1632.1
-"1052","South Ayrshire","Council Area",2021,"Recycled",32366.9
-"1053","South Lanarkshire","Council Area",2021,"Recycled",66494.2
-"1054","Stirling","Council Area",2021,"Recycled",22345.9
-"1055","West Dunbartonshire","Council Area",2021,"Recycled",15123.2
-"1056","West Lothian","Council Area",2021,"Recycled",35957.7
-"1057","Aberdeen City","Council Area",2011,"Waste Generated",97183.8
-"1058","Aberdeenshire","Council Area",2011,"Waste Generated",148052.5
-"1059","Angus","Council Area",2011,"Waste Generated",62199.8
-"1060","Argyll and Bute","Council Area",2011,"Waste Generated",46301
-"1061","City of Edinburgh","Council Area",2011,"Waste Generated",189697.2
-"1062","Clackmannanshire","Council Area",2011,"Waste Generated",30598
-"1063","Dumfries and Galloway","Council Area",2011,"Waste Generated",81620.1
-"1064","Dundee City","Council Area",2011,"Waste Generated",68367.6
-"1065","East Ayrshire","Council Area",2011,"Waste Generated",61087.2
-"1066","East Dunbartonshire","Council Area",2011,"Waste Generated",58998.3
-"1067","East Lothian","Council Area",2011,"Waste Generated",53163.5
-"1068","East Renfrewshire","Council Area",2011,"Waste Generated",45191.4
-"1069","Falkirk","Council Area",2011,"Waste Generated",78177.1
-"1070","Fife","Council Area",2011,"Waste Generated",214552.2
-"1071","Glasgow City","Council Area",2011,"Waste Generated",250708.7
-"1072","Highland","Council Area",2011,"Waste Generated",125454.5
-"1073","Inverclyde","Council Area",2011,"Waste Generated",33937.6
-"1074","Midlothian","Council Area",2011,"Waste Generated",43849.4
-"1075","Moray","Council Area",2011,"Waste Generated",52334.2
-"1076","Na h-Eileanan Siar","Council Area",2011,"Waste Generated",16509.3
-"1077","North Ayrshire","Council Area",2011,"Waste Generated",68311.6
-"1078","North Lanarkshire","Council Area",2011,"Waste Generated",160246
-"1079","Orkney Islands","Council Area",2011,"Waste Generated",10254.7
-"1080","Perth and Kinross","Council Area",2011,"Waste Generated",79918.2
-"1081","Renfrewshire","Council Area",2011,"Waste Generated",82571
-"1082","Scottish Borders","Council Area",2011,"Waste Generated",53821.5
-"1083","Shetland Islands","Council Area",2011,"Waste Generated",11792
-"1084","South Ayrshire","Council Area",2011,"Waste Generated",58481.2
-"1085","South Lanarkshire","Council Area",2011,"Waste Generated",163213.8
-"1086","Stirling","Council Area",2011,"Waste Generated",44023.8
-"1087","West Dunbartonshire","Council Area",2011,"Waste Generated",41168.5
-"1088","West Lothian","Council Area",2011,"Waste Generated",74975.6
-"1089","Aberdeen City","Council Area",2012,"Waste Generated",97230.4
-"1090","Aberdeenshire","Council Area",2012,"Waste Generated",134707.9
-"1091","Angus","Council Area",2012,"Waste Generated",60803.5
-"1092","Argyll and Bute","Council Area",2012,"Waste Generated",48509
-"1093","City of Edinburgh","Council Area",2012,"Waste Generated",187716.2
-"1094","Clackmannanshire","Council Area",2012,"Waste Generated",27736.4
-"1095","Dumfries and Galloway","Council Area",2012,"Waste Generated",77709.3
-"1096","Dundee City","Council Area",2012,"Waste Generated",70103.1
-"1097","East Ayrshire","Council Area",2012,"Waste Generated",58793.4
-"1098","East Dunbartonshire","Council Area",2012,"Waste Generated",55233.4
-"1099","East Lothian","Council Area",2012,"Waste Generated",52352.5
-"1100","East Renfrewshire","Council Area",2012,"Waste Generated",43986.1
-"1101","Falkirk","Council Area",2012,"Waste Generated",76111
-"1102","Fife","Council Area",2012,"Waste Generated",195595.1
-"1103","Glasgow City","Council Area",2012,"Waste Generated",234209.4
-"1104","Highland","Council Area",2012,"Waste Generated",126183.4
-"1105","Inverclyde","Council Area",2012,"Waste Generated",33248.4
-"1106","Midlothian","Council Area",2012,"Waste Generated",42701.2
-"1107","Moray","Council Area",2012,"Waste Generated",49883.8
-"1108","Na h-Eileanan Siar","Council Area",2012,"Waste Generated",14301.4
-"1109","North Ayrshire","Council Area",2012,"Waste Generated",62735.3
-"1110","North Lanarkshire","Council Area",2012,"Waste Generated",155836.9
-"1111","Orkney Islands","Council Area",2012,"Waste Generated",10232.5
-"1112","Perth and Kinross","Council Area",2012,"Waste Generated",75013.8
-"1113","Renfrewshire","Council Area",2012,"Waste Generated",82126.1
-"1114","Scottish Borders","Council Area",2012,"Waste Generated",52861.3
-"1115","Shetland Islands","Council Area",2012,"Waste Generated",10859.4
-"1116","South Ayrshire","Council Area",2012,"Waste Generated",57626.8
-"1117","South Lanarkshire","Council Area",2012,"Waste Generated",151923.3
-"1118","Stirling","Council Area",2012,"Waste Generated",43190.1
-"1119","West Dunbartonshire","Council Area",2012,"Waste Generated",38944.4
-"1120","West Lothian","Council Area",2012,"Waste Generated",72532.2
-"1121","Aberdeen City","Council Area",2013,"Waste Generated",94116.5
-"1122","Aberdeenshire","Council Area",2013,"Waste Generated",131809
-"1123","Angus","Council Area",2013,"Waste Generated",54258.3
-"1124","Argyll and Bute","Council Area",2013,"Waste Generated",49244
-"1125","City of Edinburgh","Council Area",2013,"Waste Generated",184360.5
-"1126","Clackmannanshire","Council Area",2013,"Waste Generated",26816.9
-"1127","Dumfries and Galloway","Council Area",2013,"Waste Generated",75501
-"1128","Dundee City","Council Area",2013,"Waste Generated",61485.3
-"1129","East Ayrshire","Council Area",2013,"Waste Generated",58282.6
-"1130","East Dunbartonshire","Council Area",2013,"Waste Generated",51997.7
-"1131","East Lothian","Council Area",2013,"Waste Generated",49334.8
-"1132","East Renfrewshire","Council Area",2013,"Waste Generated",44056.7
-"1133","Falkirk","Council Area",2013,"Waste Generated",71950
-"1134","Fife","Council Area",2013,"Waste Generated",190784.3
-"1135","Glasgow City","Council Area",2013,"Waste Generated",227940.4
-"1136","Highland","Council Area",2013,"Waste Generated",125679.2
-"1137","Inverclyde","Council Area",2013,"Waste Generated",29182.9
-"1138","Midlothian","Council Area",2013,"Waste Generated",40177.4
-"1139","Moray","Council Area",2013,"Waste Generated",47533
-"1140","Na h-Eileanan Siar","Council Area",2013,"Waste Generated",12738.2
-"1141","North Ayrshire","Council Area",2013,"Waste Generated",61909.7
-"1142","North Lanarkshire","Council Area",2013,"Waste Generated",152724.5
-"1143","Orkney Islands","Council Area",2013,"Waste Generated",9923.2
-"1144","Perth and Kinross","Council Area",2013,"Waste Generated",74267.4
-"1145","Renfrewshire","Council Area",2013,"Waste Generated",78416.7
-"1146","Scottish Borders","Council Area",2013,"Waste Generated",51242
-"1147","Shetland Islands","Council Area",2013,"Waste Generated",10140.4
-"1148","South Ayrshire","Council Area",2013,"Waste Generated",55423.2
-"1149","South Lanarkshire","Council Area",2013,"Waste Generated",144734.2
-"1150","Stirling","Council Area",2013,"Waste Generated",39922.8
-"1151","West Dunbartonshire","Council Area",2013,"Waste Generated",36206.3
-"1152","West Lothian","Council Area",2013,"Waste Generated",70473.2
-"1153","Aberdeen City","Council Area",2014,"Waste Generated",96129.8
-"1154","Aberdeenshire","Council Area",2014,"Waste Generated",131388.6
-"1155","Angus","Council Area",2014,"Waste Generated",58892
-"1156","Argyll and Bute","Council Area",2014,"Waste Generated",52359
-"1157","City of Edinburgh","Council Area",2014,"Waste Generated",189525.4
-"1158","Clackmannanshire","Council Area",2014,"Waste Generated",26785.6
-"1159","Dumfries and Galloway","Council Area",2014,"Waste Generated",76454.3
-"1160","Dundee City","Council Area",2014,"Waste Generated",63737.7
-"1161","East Ayrshire","Council Area",2014,"Waste Generated",56391.7
-"1162","East Dunbartonshire","Council Area",2014,"Waste Generated",52897.5
-"1163","East Lothian","Council Area",2014,"Waste Generated",52659.9
-"1164","East Renfrewshire","Council Area",2014,"Waste Generated",46223.6
-"1165","Falkirk","Council Area",2014,"Waste Generated",73620.6
-"1166","Fife","Council Area",2014,"Waste Generated",188211.9
-"1167","Glasgow City","Council Area",2014,"Waste Generated",224488
-"1168","Highland","Council Area",2014,"Waste Generated",131227.6
-"1169","Inverclyde","Council Area",2014,"Waste Generated",28456.4
-"1170","Midlothian","Council Area",2014,"Waste Generated",40726
-"1171","Moray","Council Area",2014,"Waste Generated",50901.6
-"1172","Na h-Eileanan Siar","Council Area",2014,"Waste Generated",13478.7
-"1173","North Ayrshire","Council Area",2014,"Waste Generated",65064.7
-"1174","North Lanarkshire","Council Area",2014,"Waste Generated",150308.4
-"1175","Orkney Islands","Council Area",2014,"Waste Generated",10567.8
-"1176","Perth and Kinross","Council Area",2014,"Waste Generated",74949.2
-"1177","Renfrewshire","Council Area",2014,"Waste Generated",80858.2
-"1178","Scottish Borders","Council Area",2014,"Waste Generated",49952
-"1179","Shetland Islands","Council Area",2014,"Waste Generated",9942.1
-"1180","South Ayrshire","Council Area",2014,"Waste Generated",55477.2
-"1181","South Lanarkshire","Council Area",2014,"Waste Generated",153491.6
-"1182","Stirling","Council Area",2014,"Waste Generated",40554.8
-"1183","West Dunbartonshire","Council Area",2014,"Waste Generated",40337.6
-"1184","West Lothian","Council Area",2014,"Waste Generated",73498.2
-"1185","Aberdeen City","Council Area",2015,"Waste Generated",95240.7
-"1186","Aberdeenshire","Council Area",2015,"Waste Generated",130249.6
-"1187","Angus","Council Area",2015,"Waste Generated",57608.6
-"1188","Argyll and Bute","Council Area",2015,"Waste Generated",51847
-"1189","City of Edinburgh","Council Area",2015,"Waste Generated",189573.8
-"1190","Clackmannanshire","Council Area",2015,"Waste Generated",26621
-"1191","Dumfries and Galloway","Council Area",2015,"Waste Generated",74092.4
-"1192","Dundee City","Council Area",2015,"Waste Generated",67182.3
-"1193","East Ayrshire","Council Area",2015,"Waste Generated",56374.3
-"1194","East Dunbartonshire","Council Area",2015,"Waste Generated",54191.3
-"1195","East Lothian","Council Area",2015,"Waste Generated",50906
-"1196","East Renfrewshire","Council Area",2015,"Waste Generated",46880.2
-"1197","Falkirk","Council Area",2015,"Waste Generated",72329.6
-"1198","Fife","Council Area",2015,"Waste Generated",191152.8
-"1199","Glasgow City","Council Area",2015,"Waste Generated",221901.6
-"1200","Highland","Council Area",2015,"Waste Generated",130780.4
-"1201","Inverclyde","Council Area",2015,"Waste Generated",28492.8
-"1202","Midlothian","Council Area",2015,"Waste Generated",42076.6
-"1203","Moray","Council Area",2015,"Waste Generated",50116.1
-"1204","Na h-Eileanan Siar","Council Area",2015,"Waste Generated",14012.7
-"1205","North Ayrshire","Council Area",2015,"Waste Generated",64193.4
-"1206","North Lanarkshire","Council Area",2015,"Waste Generated",155937.3
-"1207","Orkney Islands","Council Area",2015,"Waste Generated",9370.9
-"1208","Perth and Kinross","Council Area",2015,"Waste Generated",76186.5
-"1209","Renfrewshire","Council Area",2015,"Waste Generated",83058.5
-"1210","Scottish Borders","Council Area",2015,"Waste Generated",49847.9
-"1211","Shetland Islands","Council Area",2015,"Waste Generated",10249.7
-"1212","South Ayrshire","Council Area",2015,"Waste Generated",55652.4
-"1213","South Lanarkshire","Council Area",2015,"Waste Generated",151656.4
-"1214","Stirling","Council Area",2015,"Waste Generated",41929.3
-"1215","West Dunbartonshire","Council Area",2015,"Waste Generated",45088.2
-"1216","West Lothian","Council Area",2015,"Waste Generated",73982.3
-"1217","Aberdeen City","Council Area",2016,"Waste Generated",96122.7
-"1218","Aberdeenshire","Council Area",2016,"Waste Generated",131863.5
-"1219","Angus","Council Area",2016,"Waste Generated",58846.9
-"1220","Argyll and Bute","Council Area",2016,"Waste Generated",53689
-"1221","City of Edinburgh","Council Area",2016,"Waste Generated",193332.7
-"1222","Clackmannanshire","Council Area",2016,"Waste Generated",27090.9
-"1223","Dumfries and Galloway","Council Area",2016,"Waste Generated",79807.4
-"1224","Dundee City","Council Area",2016,"Waste Generated",67998.5
-"1225","East Ayrshire","Council Area",2016,"Waste Generated",56434.2
-"1226","East Dunbartonshire","Council Area",2016,"Waste Generated",55852
-"1227","East Lothian","Council Area",2016,"Waste Generated",50874.4
-"1228","East Renfrewshire","Council Area",2016,"Waste Generated",47723.8
-"1229","Falkirk","Council Area",2016,"Waste Generated",71783.1
-"1230","Fife","Council Area",2016,"Waste Generated",187746.4
-"1231","Glasgow City","Council Area",2016,"Waste Generated",216872.6
-"1232","Highland","Council Area",2016,"Waste Generated",130959.1
-"1233","Inverclyde","Council Area",2016,"Waste Generated",29362.7
-"1234","Midlothian","Council Area",2016,"Waste Generated",42636.8
-"1235","Moray","Council Area",2016,"Waste Generated",51950.5
-"1236","Na h-Eileanan Siar","Council Area",2016,"Waste Generated",14959.6
-"1237","North Ayrshire","Council Area",2016,"Waste Generated",63838.2
-"1238","North Lanarkshire","Council Area",2016,"Waste Generated",160914
-"1239","Orkney Islands","Council Area",2016,"Waste Generated",10348.7
-"1240","Perth and Kinross","Council Area",2016,"Waste Generated",78729.9
-"1241","Renfrewshire","Council Area",2016,"Waste Generated",83660.9
-"1242","Scottish Borders","Council Area",2016,"Waste Generated",51921.2
-"1243","Shetland Islands","Council Area",2016,"Waste Generated",9995.6
-"1244","South Ayrshire","Council Area",2016,"Waste Generated",56484.6
-"1245","South Lanarkshire","Council Area",2016,"Waste Generated",152535.4
-"1246","Stirling","Council Area",2016,"Waste Generated",44270.5
-"1247","West Dunbartonshire","Council Area",2016,"Waste Generated",44936
-"1248","West Lothian","Council Area",2016,"Waste Generated",75437.7
-"1249","Aberdeen City","Council Area",2017,"Waste Generated",87786.6
-"1250","Aberdeenshire","Council Area",2017,"Waste Generated",127632.2
-"1251","Angus","Council Area",2017,"Waste Generated",56277.8
-"1252","Argyll and Bute","Council Area",2017,"Waste Generated",50437
-"1253","City of Edinburgh","Council Area",2017,"Waste Generated",200720.1
-"1254","Clackmannanshire","Council Area",2017,"Waste Generated",27200.8
-"1255","Dumfries and Galloway","Council Area",2017,"Waste Generated",76288.6
-"1256","Dundee City","Council Area",2017,"Waste Generated",64346.8
-"1257","East Ayrshire","Council Area",2017,"Waste Generated",55841.6
-"1258","East Dunbartonshire","Council Area",2017,"Waste Generated",56445
-"1259","East Lothian","Council Area",2017,"Waste Generated",50611.7
-"1260","East Renfrewshire","Council Area",2017,"Waste Generated",47563.6
-"1261","Falkirk","Council Area",2017,"Waste Generated",74651.2
-"1262","Fife","Council Area",2017,"Waste Generated",178478.4
-"1263","Glasgow City","Council Area",2017,"Waste Generated",224524.4
-"1264","Highland","Council Area",2017,"Waste Generated",130190.3
-"1265","Inverclyde","Council Area",2017,"Waste Generated",27564.8
-"1266","Midlothian","Council Area",2017,"Waste Generated",42725.5
-"1267","Moray","Council Area",2017,"Waste Generated",51089.9
-"1268","Na h-Eileanan Siar","Council Area",2017,"Waste Generated",14453.2
-"1269","North Ayrshire","Council Area",2017,"Waste Generated",62954.2
-"1270","North Lanarkshire","Council Area",2017,"Waste Generated",156813.1
-"1271","Orkney Islands","Council Area",2017,"Waste Generated",10798
-"1272","Perth and Kinross","Council Area",2017,"Waste Generated",74788.8
-"1273","Renfrewshire","Council Area",2017,"Waste Generated",83526.3
-"1274","Scottish Borders","Council Area",2017,"Waste Generated",53471.4
-"1275","Shetland Islands","Council Area",2017,"Waste Generated",9754.1
-"1276","South Ayrshire","Council Area",2017,"Waste Generated",56771.8
-"1277","South Lanarkshire","Council Area",2017,"Waste Generated",151739.6
-"1278","Stirling","Council Area",2017,"Waste Generated",40773.9
-"1279","West Dunbartonshire","Council Area",2017,"Waste Generated",43551
-"1280","West Lothian","Council Area",2017,"Waste Generated",71050.6
-"1281","Aberdeen City","Council Area",2018,"Waste Generated",85539.7
-"1282","Aberdeenshire","Council Area",2018,"Waste Generated",120518.7
-"1283","Angus","Council Area",2018,"Waste Generated",54619.1
-"1284","Argyll and Bute","Council Area",2018,"Waste Generated",47972.1
-"1285","City of Edinburgh","Council Area",2018,"Waste Generated",193341.3
-"1286","Clackmannanshire","Council Area",2018,"Waste Generated",26121.8
-"1287","Dumfries and Galloway","Council Area",2018,"Waste Generated",79324.9
-"1288","Dundee City","Council Area",2018,"Waste Generated",60772.8
-"1289","East Ayrshire","Council Area",2018,"Waste Generated",53147.6
-"1290","East Dunbartonshire","Council Area",2018,"Waste Generated",51642.9
-"1291","East Lothian","Council Area",2018,"Waste Generated",50134
-"1292","East Renfrewshire","Council Area",2018,"Waste Generated",43927.4
-"1293","Falkirk","Council Area",2018,"Waste Generated",68570.8
-"1294","Fife","Council Area",2018,"Waste Generated",167353.3
-"1295","Glasgow City","Council Area",2018,"Waste Generated",245318.1
-"1296","Highland","Council Area",2018,"Waste Generated",127880.5
-"1297","Inverclyde","Council Area",2018,"Waste Generated",28027.2
-"1298","Midlothian","Council Area",2018,"Waste Generated",41889.6
-"1299","Moray","Council Area",2018,"Waste Generated",47522.5
-"1300","Na h-Eileanan Siar","Council Area",2018,"Waste Generated",14325.3
-"1301","North Ayrshire","Council Area",2018,"Waste Generated",61421
-"1302","North Lanarkshire","Council Area",2018,"Waste Generated",146175.3
-"1303","Orkney Islands","Council Area",2018,"Waste Generated",10220.5
-"1304","Perth and Kinross","Council Area",2018,"Waste Generated",71814.9
-"1305","Renfrewshire","Council Area",2018,"Waste Generated",81254.8
-"1306","Scottish Borders","Council Area",2018,"Waste Generated",52491.1
-"1307","Shetland Islands","Council Area",2018,"Waste Generated",9649.2
-"1308","South Ayrshire","Council Area",2018,"Waste Generated",55814.5
-"1309","South Lanarkshire","Council Area",2018,"Waste Generated",150470.1
-"1310","Stirling","Council Area",2018,"Waste Generated",41925.1
-"1311","West Dunbartonshire","Council Area",2018,"Waste Generated",41866.4
-"1312","West Lothian","Council Area",2018,"Waste Generated",74194
-"1313","Aberdeen City","Council Area",2019,"Waste Generated",84642.6
-"1314","Aberdeenshire","Council Area",2019,"Waste Generated",122830.3
-"1315","Angus","Council Area",2019,"Waste Generated",52541.2
-"1316","Argyll and Bute","Council Area",2019,"Waste Generated",46901
-"1317","City of Edinburgh","Council Area",2019,"Waste Generated",192069.8
-"1318","Clackmannanshire","Council Area",2019,"Waste Generated",25473.5
-"1319","Dumfries and Galloway","Council Area",2019,"Waste Generated",76786.5
-"1320","Dundee City","Council Area",2019,"Waste Generated",65259.4
-"1321","East Ayrshire","Council Area",2019,"Waste Generated",55096.8
-"1322","East Dunbartonshire","Council Area",2019,"Waste Generated",52692.1
-"1323","East Lothian","Council Area",2019,"Waste Generated",49978.8
-"1324","East Renfrewshire","Council Area",2019,"Waste Generated",48608.8
-"1325","Falkirk","Council Area",2019,"Waste Generated",70031.9
-"1326","Fife","Council Area",2019,"Waste Generated",174977.5
-"1327","Glasgow City","Council Area",2019,"Waste Generated",252147.5
-"1328","Highland","Council Area",2019,"Waste Generated",124688.5
-"1329","Inverclyde","Council Area",2019,"Waste Generated",27698.5
-"1330","Midlothian","Council Area",2019,"Waste Generated",40609.9
-"1331","Moray","Council Area",2019,"Waste Generated",47186.6
-"1332","Na h-Eileanan Siar","Council Area",2019,"Waste Generated",13709.6
-"1333","North Ayrshire","Council Area",2019,"Waste Generated",60321.5
-"1334","North Lanarkshire","Council Area",2019,"Waste Generated",149976.9
-"1335","Orkney Islands","Council Area",2019,"Waste Generated",10427.9
-"1336","Perth and Kinross","Council Area",2019,"Waste Generated",74292.6
-"1337","Renfrewshire","Council Area",2019,"Waste Generated",81460.5
-"1338","Scottish Borders","Council Area",2019,"Waste Generated",52300.1
-"1339","Shetland Islands","Council Area",2019,"Waste Generated",9647.7
-"1340","South Ayrshire","Council Area",2019,"Waste Generated",52639.7
-"1341","South Lanarkshire","Council Area",2019,"Waste Generated",146941.2
-"1342","Stirling","Council Area",2019,"Waste Generated",42503.9
-"1343","West Dunbartonshire","Council Area",2019,"Waste Generated",39905.3
-"1344","West Lothian","Council Area",2019,"Waste Generated",77443.8
-"1345","Aberdeen City","Council Area",2020,"Waste Generated",95918.6
-"1346","Aberdeenshire","Council Area",2020,"Waste Generated",114951.1
-"1347","Angus","Council Area",2020,"Waste Generated",52166.4
-"1348","Argyll and Bute","Council Area",2020,"Waste Generated",42567
-"1349","City of Edinburgh","Council Area",2020,"Waste Generated",201202.3
-"1350","Clackmannanshire","Council Area",2020,"Waste Generated",23221.3
-"1351","Dumfries and Galloway","Council Area",2020,"Waste Generated",65038.6
-"1352","Dundee City","Council Area",2020,"Waste Generated",63609.5
-"1353","East Ayrshire","Council Area",2020,"Waste Generated",52305
-"1354","East Dunbartonshire","Council Area",2020,"Waste Generated",54572.8
-"1355","East Lothian","Council Area",2020,"Waste Generated",51755.1
-"1356","East Renfrewshire","Council Area",2020,"Waste Generated",44360.2
-"1357","Falkirk","Council Area",2020,"Waste Generated",77069.2
-"1358","Fife","Council Area",2020,"Waste Generated",156150.9
-"1359","Glasgow City","Council Area",2020,"Waste Generated",265909.7
-"1360","Highland","Council Area",2020,"Waste Generated",109108.8
-"1361","Inverclyde","Council Area",2020,"Waste Generated",29009.2
-"1362","Midlothian","Council Area",2020,"Waste Generated",42152.7
-"1363","Moray","Council Area",2020,"Waste Generated",41520.6
-"1364","Na h-Eileanan Siar","Council Area",2020,"Waste Generated",13146.2
-"1365","North Ayrshire","Council Area",2020,"Waste Generated",61773.6
-"1366","North Lanarkshire","Council Area",2020,"Waste Generated",156611.7
-"1367","Orkney Islands","Council Area",2020,"Waste Generated",7676.9
-"1368","Perth and Kinross","Council Area",2020,"Waste Generated",77535.1
-"1369","Renfrewshire","Council Area",2020,"Waste Generated",84010.7
-"1370","Scottish Borders","Council Area",2020,"Waste Generated",50715.5
-"1371","Shetland Islands","Council Area",2020,"Waste Generated",9087
-"1372","South Ayrshire","Council Area",2020,"Waste Generated",56376.2
-"1373","South Lanarkshire","Council Area",2020,"Waste Generated",153658.1
-"1374","Stirling","Council Area",2020,"Waste Generated",44504.5
-"1375","West Dunbartonshire","Council Area",2020,"Waste Generated",44351.8
-"1376","West Lothian","Council Area",2020,"Waste Generated",86217.4
-"1377","Aberdeen City","Council Area",2021,"Waste Generated",93748.6
-"1378","Aberdeenshire","Council Area",2021,"Waste Generated",117503.2
-"1379","Angus","Council Area",2021,"Waste Generated",54058.6
-"1380","Argyll and Bute","Council Area",2021,"Waste Generated",49042
-"1381","City of Edinburgh","Council Area",2021,"Waste Generated",207203.7
-"1382","Clackmannanshire","Council Area",2021,"Waste Generated",23777.4
-"1383","Dumfries and Galloway","Council Area",2021,"Waste Generated",65774.5
-"1384","Dundee City","Council Area",2021,"Waste Generated",65012
-"1385","East Ayrshire","Council Area",2021,"Waste Generated",53328.9
-"1386","East Dunbartonshire","Council Area",2021,"Waste Generated",57694
-"1387","East Lothian","Council Area",2021,"Waste Generated",53951.9
-"1388","East Renfrewshire","Council Area",2021,"Waste Generated",40573.7
-"1389","Falkirk","Council Area",2021,"Waste Generated",75817.1
-"1390","Fife","Council Area",2021,"Waste Generated",166980.7
-"1391","Glasgow City","Council Area",2021,"Waste Generated",258940.8
-"1392","Highland","Council Area",2021,"Waste Generated",116065.7
-"1393","Inverclyde","Council Area",2021,"Waste Generated",26632
-"1394","Midlothian","Council Area",2021,"Waste Generated",43835
-"1395","Moray","Council Area",2021,"Waste Generated",42538.7
-"1396","Na h-Eileanan Siar","Council Area",2021,"Waste Generated",14125.3
-"1397","North Ayrshire","Council Area",2021,"Waste Generated",63049.7
-"1398","North Lanarkshire","Council Area",2021,"Waste Generated",161070.4
-"1399","Orkney Islands","Council Area",2021,"Waste Generated",9360.8
-"1400","Perth and Kinross","Council Area",2021,"Waste Generated",77370.2
-"1401","Renfrewshire","Council Area",2021,"Waste Generated",85448
-"1402","Scottish Borders","Council Area",2021,"Waste Generated",54561.4
-"1403","Shetland Islands","Council Area",2021,"Waste Generated",9625.9
-"1404","South Ayrshire","Council Area",2021,"Waste Generated",57828.4
-"1405","South Lanarkshire","Council Area",2021,"Waste Generated",164765.1
-"1406","Stirling","Council Area",2021,"Waste Generated",43957.6
-"1407","West Dunbartonshire","Council Area",2021,"Waste Generated",42505.1
-"1408","West Lothian","Council Area",2021,"Waste Generated",87149.5
+,city,date,waste,tonnes
+1,Aberdeen City,2011,Landfilled,62521.9
+2,Aberdeenshire,2011,Landfilled,98318
+3,Angus,2011,Landfilled,22724.9
+4,Argyll and Bute,2011,Landfilled,26126
+5,City of Edinburgh,2011,Landfilled,130590.3
+6,Clackmannanshire,2011,Landfilled,14318.6
+7,Dumfries and Galloway,2011,Landfilled,34886.3
+8,Dundee City,2011,Landfilled,7963.6
+9,East Ayrshire,2011,Landfilled,32510.1
+10,East Dunbartonshire,2011,Landfilled,36731.2
+11,East Lothian,2011,Landfilled,27643.7
+12,East Renfrewshire,2011,Landfilled,20743.7
+13,Falkirk,2011,Landfilled,36969.4
+14,Fife,2011,Landfilled,98593.2
+15,Glasgow City,2011,Landfilled,183691.2
+16,Highland,2011,Landfilled,68856.5
+17,Inverclyde,2011,Landfilled,19946.2
+18,Midlothian,2011,Landfilled,23162.6
+19,Moray,2011,Landfilled,28996.3
+20,Na h-Eileanan Siar,2011,Landfilled,12117.6
+21,North Ayrshire,2011,Landfilled,32911.5
+22,North Lanarkshire,2011,Landfilled,97069.9
+23,Orkney Islands,2011,Landfilled,2813.1
+24,Perth and Kinross,2011,Landfilled,38034.1
+25,Renfrewshire,2011,Landfilled,45230
+26,Scottish Borders,2011,Landfilled,28688.2
+27,Shetland Islands,2011,Landfilled,450.4
+28,South Ayrshire,2011,Landfilled,30279.5
+29,South Lanarkshire,2011,Landfilled,105640.4
+30,Stirling,2011,Landfilled,20484
+31,West Dunbartonshire,2011,Landfilled,22633.9
+32,West Lothian,2011,Landfilled,42143.2
+33,Aberdeen City,2012,Landfilled,60988.3
+34,Aberdeenshire,2012,Landfilled,86819
+35,Angus,2012,Landfilled,32846.5
+36,Argyll and Bute,2012,Landfilled,27660.1
+37,City of Edinburgh,2012,Landfilled,118820.4
+38,Clackmannanshire,2012,Landfilled,9944.6
+39,Dumfries and Galloway,2012,Landfilled,23701.6
+40,Dundee City,2012,Landfilled,34655.2
+41,East Ayrshire,2012,Landfilled,32685.2
+42,East Dunbartonshire,2012,Landfilled,33865.3
+43,East Lothian,2012,Landfilled,24169.2
+44,East Renfrewshire,2012,Landfilled,20162
+45,Falkirk,2012,Landfilled,32262.3
+46,Fife,2012,Landfilled,92292
+47,Glasgow City,2012,Landfilled,165095.8
+48,Highland,2012,Landfilled,69436.1
+49,Inverclyde,2012,Landfilled,15792.7
+50,Midlothian,2012,Landfilled,23362
+51,Moray,2012,Landfilled,23979
+52,Na h-Eileanan Siar,2012,Landfilled,10069.4
+53,North Ayrshire,2012,Landfilled,29752
+54,North Lanarkshire,2012,Landfilled,93825.7
+55,Orkney Islands,2012,Landfilled,2721
+56,Perth and Kinross,2012,Landfilled,33760.8
+57,Renfrewshire,2012,Landfilled,47049.8
+58,Scottish Borders,2012,Landfilled,29440.1
+59,Shetland Islands,2012,Landfilled,1799.3
+60,South Ayrshire,2012,Landfilled,30275.4
+61,South Lanarkshire,2012,Landfilled,95124.5
+62,Stirling,2012,Landfilled,17008.8
+63,West Dunbartonshire,2012,Landfilled,21622.1
+64,West Lothian,2012,Landfilled,41167.4
+65,Aberdeen City,2013,Landfilled,59051.5
+66,Aberdeenshire,2013,Landfilled,84421
+67,Angus,2013,Landfilled,25264.8
+68,Argyll and Bute,2013,Landfilled,25188
+69,City of Edinburgh,2013,Landfilled,114171.8
+70,Clackmannanshire,2013,Landfilled,9018.1
+71,Dumfries and Galloway,2013,Landfilled,30923.2
+72,Dundee City,2013,Landfilled,26795
+73,East Ayrshire,2013,Landfilled,28567.1
+74,East Dunbartonshire,2013,Landfilled,25339.6
+75,East Lothian,2013,Landfilled,28455.8
+76,East Renfrewshire,2013,Landfilled,19239
+77,Falkirk,2013,Landfilled,31834
+78,Fife,2013,Landfilled,83217
+79,Glasgow City,2013,Landfilled,166630.6
+80,Highland,2013,Landfilled,66168.8
+81,Inverclyde,2013,Landfilled,12967.4
+82,Midlothian,2013,Landfilled,23165
+83,Moray,2013,Landfilled,23109.6
+84,Na h-Eileanan Siar,2013,Landfilled,8457
+85,North Ayrshire,2013,Landfilled,26566.3
+86,North Lanarkshire,2013,Landfilled,76494
+87,Orkney Islands,2013,Landfilled,2699.6
+88,Perth and Kinross,2013,Landfilled,31621.9
+89,Renfrewshire,2013,Landfilled,40500.3
+90,Scottish Borders,2013,Landfilled,28821.3
+91,Shetland Islands,2013,Landfilled,2269.3
+92,South Ayrshire,2013,Landfilled,27048.3
+93,South Lanarkshire,2013,Landfilled,88205.4
+94,Stirling,2013,Landfilled,16051.6
+95,West Dunbartonshire,2013,Landfilled,20027.2
+96,West Lothian,2013,Landfilled,38539.2
+97,Aberdeen City,2014,Landfilled,59102.1
+98,Aberdeenshire,2014,Landfilled,78733.4
+99,Angus,2014,Landfilled,14963.4
+100,Argyll and Bute,2014,Landfilled,27192.2
+101,City of Edinburgh,2014,Landfilled,107913.7
+102,Clackmannanshire,2014,Landfilled,10772.4
+103,Dumfries and Galloway,2014,Landfilled,25812.9
+104,Dundee City,2014,Landfilled,4394
+105,East Ayrshire,2014,Landfilled,19406.9
+106,East Dunbartonshire,2014,Landfilled,23093
+107,East Lothian,2014,Landfilled,26123
+108,East Renfrewshire,2014,Landfilled,19938.6
+109,Falkirk,2014,Landfilled,33519.5
+110,Fife,2014,Landfilled,82667
+111,Glasgow City,2014,Landfilled,164810.9
+112,Highland,2014,Landfilled,69014.7
+113,Inverclyde,2014,Landfilled,12144.9
+114,Midlothian,2014,Landfilled,21587.9
+115,Moray,2014,Landfilled,23220.6
+116,Na h-Eileanan Siar,2014,Landfilled,8654.7
+117,North Ayrshire,2014,Landfilled,27708.2
+118,North Lanarkshire,2014,Landfilled,81800.9
+119,Orkney Islands,2014,Landfilled,3010.9
+120,Perth and Kinross,2014,Landfilled,30714.8
+121,Renfrewshire,2014,Landfilled,25492.3
+122,Scottish Borders,2014,Landfilled,30666.3
+123,Shetland Islands,2014,Landfilled,2142.6
+124,South Ayrshire,2014,Landfilled,19104.9
+125,South Lanarkshire,2014,Landfilled,83531.2
+126,Stirling,2014,Landfilled,17192.1
+127,West Dunbartonshire,2014,Landfilled,20040.9
+128,West Lothian,2014,Landfilled,38008.6
+129,Aberdeen City,2015,Landfilled,58155.2
+130,Aberdeenshire,2015,Landfilled,73175.5
+131,Angus,2015,Landfilled,12696.9
+132,Argyll and Bute,2015,Landfilled,25293.1
+133,City of Edinburgh,2015,Landfilled,95812.7
+134,Clackmannanshire,2015,Landfilled,11396.7
+135,Dumfries and Galloway,2015,Landfilled,21766.7
+136,Dundee City,2015,Landfilled,4621.9
+137,East Ayrshire,2015,Landfilled,19343.5
+138,East Dunbartonshire,2015,Landfilled,22301.2
+139,East Lothian,2015,Landfilled,22525.7
+140,East Renfrewshire,2015,Landfilled,20140.5
+141,Falkirk,2015,Landfilled,28726.7
+142,Fife,2015,Landfilled,82100.1
+143,Glasgow City,2015,Landfilled,161917.6
+144,Highland,2015,Landfilled,71448.8
+145,Inverclyde,2015,Landfilled,12759.7
+146,Midlothian,2015,Landfilled,14226.8
+147,Moray,2015,Landfilled,21338.3
+148,Na h-Eileanan Siar,2015,Landfilled,9091.6
+149,North Ayrshire,2015,Landfilled,26658.4
+150,North Lanarkshire,2015,Landfilled,76973.5
+151,Orkney Islands,2015,Landfilled,2243.9
+152,Perth and Kinross,2015,Landfilled,26849.3
+153,Renfrewshire,2015,Landfilled,26819.3
+154,Scottish Borders,2015,Landfilled,30355.2
+155,Shetland Islands,2015,Landfilled,2258.4
+156,South Ayrshire,2015,Landfilled,19499.3
+157,South Lanarkshire,2015,Landfilled,77415.6
+158,Stirling,2015,Landfilled,18029.6
+159,West Dunbartonshire,2015,Landfilled,20035.8
+160,West Lothian,2015,Landfilled,34559.5
+161,Aberdeen City,2016,Landfilled,58020.6
+162,Aberdeenshire,2016,Landfilled,72995.1
+163,Angus,2016,Landfilled,15269.8
+164,Argyll and Bute,2016,Landfilled,27314.6
+165,City of Edinburgh,2016,Landfilled,103589.8
+166,Clackmannanshire,2016,Landfilled,7887.4
+167,Dumfries and Galloway,2016,Landfilled,31975.1
+168,Dundee City,2016,Landfilled,4638.4
+169,East Ayrshire,2016,Landfilled,20436.7
+170,East Dunbartonshire,2016,Landfilled,22858
+171,East Lothian,2016,Landfilled,24450.9
+172,East Renfrewshire,2016,Landfilled,17922.9
+173,Falkirk,2016,Landfilled,23722.9
+174,Fife,2016,Landfilled,76955.3
+175,Glasgow City,2016,Landfilled,156337.1
+176,Highland,2016,Landfilled,71732.8
+177,Inverclyde,2016,Landfilled,12770
+178,Midlothian,2016,Landfilled,14079.4
+179,Moray,2016,Landfilled,21252.7
+180,Na h-Eileanan Siar,2016,Landfilled,9423.1
+181,North Ayrshire,2016,Landfilled,26615
+182,North Lanarkshire,2016,Landfilled,69410
+183,Orkney Islands,2016,Landfilled,2880
+184,Perth and Kinross,2016,Landfilled,27008.4
+185,Renfrewshire,2016,Landfilled,20245.3
+186,Scottish Borders,2016,Landfilled,30701.9
+187,Shetland Islands,2016,Landfilled,2256.1
+188,South Ayrshire,2016,Landfilled,22320.4
+189,South Lanarkshire,2016,Landfilled,71715.1
+190,Stirling,2016,Landfilled,12200.7
+191,West Dunbartonshire,2016,Landfilled,18868.8
+192,West Lothian,2016,Landfilled,33952.3
+193,Aberdeen City,2017,Landfilled,31624
+194,Aberdeenshire,2017,Landfilled,69921.3
+195,Angus,2017,Landfilled,13366.6
+196,Argyll and Bute,2017,Landfilled,23578.1
+197,City of Edinburgh,2017,Landfilled,113236.7
+198,Clackmannanshire,2017,Landfilled,8137.9
+199,Dumfries and Galloway,2017,Landfilled,31725.1
+200,Dundee City,2017,Landfilled,4017
+201,East Ayrshire,2017,Landfilled,20941.2
+202,East Dunbartonshire,2017,Landfilled,23107
+203,East Lothian,2017,Landfilled,23499.5
+204,East Renfrewshire,2017,Landfilled,14146.3
+205,Falkirk,2017,Landfilled,24419.3
+206,Fife,2017,Landfilled,68786
+207,Glasgow City,2017,Landfilled,150942.9
+208,Highland,2017,Landfilled,71965.9
+209,Inverclyde,2017,Landfilled,10265.3
+210,Midlothian,2017,Landfilled,18856.7
+211,Moray,2017,Landfilled,21572.9
+212,Na h-Eileanan Siar,2017,Landfilled,9353.1
+213,North Ayrshire,2017,Landfilled,26052
+214,North Lanarkshire,2017,Landfilled,87011.1
+215,Orkney Islands,2017,Landfilled,3324.7
+216,Perth and Kinross,2017,Landfilled,28495.6
+217,Renfrewshire,2017,Landfilled,23641
+218,Scottish Borders,2017,Landfilled,30592.5
+219,Shetland Islands,2017,Landfilled,2177.7
+220,South Ayrshire,2017,Landfilled,20128.4
+221,South Lanarkshire,2017,Landfilled,79987.2
+222,Stirling,2017,Landfilled,12117
+223,West Dunbartonshire,2017,Landfilled,19162
+224,West Lothian,2017,Landfilled,20806.3
+225,Aberdeen City,2018,Landfilled,17618.5
+226,Aberdeenshire,2018,Landfilled,65436.6
+227,Angus,2018,Landfilled,2383.1
+228,Argyll and Bute,2018,Landfilled,22097.6
+229,City of Edinburgh,2018,Landfilled,100701.2
+230,Clackmannanshire,2018,Landfilled,10924.2
+231,Dumfries and Galloway,2018,Landfilled,35063.5
+232,Dundee City,2018,Landfilled,4339.7
+233,East Ayrshire,2018,Landfilled,20647.4
+234,East Dunbartonshire,2018,Landfilled,13431.4
+235,East Lothian,2018,Landfilled,21524
+236,East Renfrewshire,2018,Landfilled,13753.3
+237,Falkirk,2018,Landfilled,30595.3
+238,Fife,2018,Landfilled,71322
+239,Glasgow City,2018,Landfilled,167502.2
+240,Highland,2018,Landfilled,66029.4
+241,Inverclyde,2018,Landfilled,10613.5
+242,Midlothian,2018,Landfilled,12327.2
+243,Moray,2018,Landfilled,20266
+244,Na h-Eileanan Siar,2018,Landfilled,9264.6
+245,North Ayrshire,2018,Landfilled,21096.3
+246,North Lanarkshire,2018,Landfilled,62326.2
+247,Orkney Islands,2018,Landfilled,2650.2
+248,Perth and Kinross,2018,Landfilled,30649.5
+249,Renfrewshire,2018,Landfilled,17009.8
+250,Scottish Borders,2018,Landfilled,30670.6
+251,Shetland Islands,2018,Landfilled,2155.6
+252,South Ayrshire,2018,Landfilled,19984.1
+253,South Lanarkshire,2018,Landfilled,72532.8
+254,Stirling,2018,Landfilled,18803.6
+255,West Dunbartonshire,2018,Landfilled,19624.4
+256,West Lothian,2018,Landfilled,18123.7
+257,Aberdeen City,2019,Landfilled,15005.4
+258,Aberdeenshire,2019,Landfilled,66195.3
+259,Angus,2019,Landfilled,2701.8
+260,Argyll and Bute,2019,Landfilled,21825.2
+261,City of Edinburgh,2019,Landfilled,8586.8
+262,Clackmannanshire,2019,Landfilled,11341.6
+263,Dumfries and Galloway,2019,Landfilled,19647.2
+264,Dundee City,2019,Landfilled,4520.7
+265,East Ayrshire,2019,Landfilled,21091.6
+266,East Dunbartonshire,2019,Landfilled,10289.5
+267,East Lothian,2019,Landfilled,7671.9
+268,East Renfrewshire,2019,Landfilled,14561.1
+269,Falkirk,2019,Landfilled,30664.8
+270,Fife,2019,Landfilled,78275
+271,Glasgow City,2019,Landfilled,123466.4
+272,Highland,2019,Landfilled,63856.6
+273,Inverclyde,2019,Landfilled,10983.6
+274,Midlothian,2019,Landfilled,4366.7
+275,Moray,2019,Landfilled,19357.3
+276,Na h-Eileanan Siar,2019,Landfilled,9000.6
+277,North Ayrshire,2019,Landfilled,16306.7
+278,North Lanarkshire,2019,Landfilled,31751.5
+279,Orkney Islands,2019,Landfilled,2675.8
+280,Perth and Kinross,2019,Landfilled,30845.3
+281,Renfrewshire,2019,Landfilled,13466.8
+282,Scottish Borders,2019,Landfilled,15064.5
+283,Shetland Islands,2019,Landfilled,1911.6
+284,South Ayrshire,2019,Landfilled,17119.5
+285,South Lanarkshire,2019,Landfilled,37044.5
+286,Stirling,2019,Landfilled,19033.9
+287,West Dunbartonshire,2019,Landfilled,17994.2
+288,West Lothian,2019,Landfilled,11517.8
+289,Aberdeen City,2020,Landfilled,22358.8
+290,Aberdeenshire,2020,Landfilled,65503.4
+291,Angus,2020,Landfilled,3015.9
+292,Argyll and Bute,2020,Landfilled,22342
+293,City of Edinburgh,2020,Landfilled,6433.2
+294,Clackmannanshire,2020,Landfilled,11923.4
+295,Dumfries and Galloway,2020,Landfilled,11938.2
+296,Dundee City,2020,Landfilled,5143.5
+297,East Ayrshire,2020,Landfilled,25126.1
+298,East Dunbartonshire,2020,Landfilled,7251.9
+299,East Lothian,2020,Landfilled,4949.6
+300,East Renfrewshire,2020,Landfilled,4878.1
+301,Falkirk,2020,Landfilled,33853
+302,Fife,2020,Landfilled,73298.8
+303,Glasgow City,2020,Landfilled,76825.9
+304,Highland,2020,Landfilled,64560.1
+305,Inverclyde,2020,Landfilled,16148.1
+306,Midlothian,2020,Landfilled,4837.6
+307,Moray,2020,Landfilled,18728.5
+308,Na h-Eileanan Siar,2020,Landfilled,8552.7
+309,North Ayrshire,2020,Landfilled,4800.3
+310,North Lanarkshire,2020,Landfilled,18048.4
+311,Orkney Islands,2020,Landfilled,1774.1
+312,Perth and Kinross,2020,Landfilled,33660.9
+313,Renfrewshire,2020,Landfilled,10155.9
+314,Scottish Borders,2020,Landfilled,136.3
+315,Shetland Islands,2020,Landfilled,2178.8
+316,South Ayrshire,2020,Landfilled,19705.9
+317,South Lanarkshire,2020,Landfilled,27292.2
+318,Stirling,2020,Landfilled,22919.2
+319,West Dunbartonshire,2020,Landfilled,23038.1
+320,West Lothian,2020,Landfilled,8027.8
+321,Aberdeen City,2021,Landfilled,9376.1
+322,Aberdeenshire,2021,Landfilled,66291.8
+323,Angus,2021,Landfilled,1661.5
+324,Argyll and Bute,2021,Landfilled,22950
+325,City of Edinburgh,2021,Landfilled,7005.5
+326,Clackmannanshire,2021,Landfilled,11891
+327,Dumfries and Galloway,2021,Landfilled,7211.3
+328,Dundee City,2021,Landfilled,2452
+329,East Ayrshire,2021,Landfilled,22352.4
+330,East Dunbartonshire,2021,Landfilled,6063.5
+331,East Lothian,2021,Landfilled,5486.6
+332,East Renfrewshire,2021,Landfilled,985.1
+333,Falkirk,2021,Landfilled,35582.5
+334,Fife,2021,Landfilled,79541.9
+335,Glasgow City,2021,Landfilled,97416.4
+336,Highland,2021,Landfilled,66706.8
+337,Inverclyde,2021,Landfilled,10821.5
+338,Midlothian,2021,Landfilled,5427.2
+339,Moray,2021,Landfilled,20328.9
+340,Na h-Eileanan Siar,2021,Landfilled,9336.9
+341,North Ayrshire,2021,Landfilled,3469
+342,North Lanarkshire,2021,Landfilled,19189.8
+343,Orkney Islands,2021,Landfilled,1955.9
+344,Perth and Kinross,2021,Landfilled,32706.8
+345,Renfrewshire,2021,Landfilled,6998.2
+346,Scottish Borders,2021,Landfilled,172.4
+347,Shetland Islands,2021,Landfilled,2399.9
+348,South Ayrshire,2021,Landfilled,19706.5
+349,South Lanarkshire,2021,Landfilled,37663.3
+350,Stirling,2021,Landfilled,20867.1
+351,West Dunbartonshire,2021,Landfilled,22368.9
+352,West Lothian,2021,Landfilled,7140
+353,Aberdeen City,2011,Other Diversion,0
+354,Aberdeenshire,2011,Other Diversion,0
+355,Angus,2011,Other Diversion,13482.5
+356,Argyll and Bute,2011,Other Diversion,7536.8
+357,City of Edinburgh,2011,Other Diversion,2170.6
+358,Clackmannanshire,2011,Other Diversion,367.9
+359,Dumfries and Galloway,2011,Other Diversion,30781.7
+360,Dundee City,2011,Other Diversion,38263.3
+361,East Ayrshire,2011,Other Diversion,66.4
+362,East Dunbartonshire,2011,Other Diversion,1259.9
+363,East Lothian,2011,Other Diversion,2087.1
+364,East Renfrewshire,2011,Other Diversion,514.7
+365,Falkirk,2011,Other Diversion,0
+366,Fife,2011,Other Diversion,974.7
+367,Glasgow City,2011,Other Diversion,0
+368,Highland,2011,Other Diversion,2020.8
+369,Inverclyde,2011,Other Diversion,0
+370,Midlothian,2011,Other Diversion,59.8
+371,Moray,2011,Other Diversion,0
+372,Na h-Eileanan Siar,2011,Other Diversion,2227.6
+373,North Ayrshire,2011,Other Diversion,80.8
+374,North Lanarkshire,2011,Other Diversion,220.8
+375,Orkney Islands,2011,Other Diversion,5557.5
+376,Perth and Kinross,2011,Other Diversion,995.5
+377,Renfrewshire,2011,Other Diversion,2449.8
+378,Scottish Borders,2011,Other Diversion,236.2
+379,Shetland Islands,2011,Other Diversion,9684.1
+380,South Ayrshire,2011,Other Diversion,1362.1
+381,South Lanarkshire,2011,Other Diversion,398.8
+382,Stirling,2011,Other Diversion,0
+383,West Dunbartonshire,2011,Other Diversion,29.3
+384,West Lothian,2011,Other Diversion,271.1
+385,Aberdeen City,2012,Other Diversion,12
+386,Aberdeenshire,2012,Other Diversion,0
+387,Angus,2012,Other Diversion,3564.4
+388,Argyll and Bute,2012,Other Diversion,6852.8
+389,City of Edinburgh,2012,Other Diversion,2444.2
+390,Clackmannanshire,2012,Other Diversion,1442.8
+391,Dumfries and Galloway,2012,Other Diversion,36651.5
+392,Dundee City,2012,Other Diversion,14653.1
+393,East Ayrshire,2012,Other Diversion,60.6
+394,East Dunbartonshire,2012,Other Diversion,1212.5
+395,East Lothian,2012,Other Diversion,4685.7
+396,East Renfrewshire,2012,Other Diversion,84.4
+397,Falkirk,2012,Other Diversion,1870
+398,Fife,2012,Other Diversion,992.6
+399,Glasgow City,2012,Other Diversion,0
+400,Highland,2012,Other Diversion,1857.3
+401,Inverclyde,2012,Other Diversion,612.3
+402,Midlothian,2012,Other Diversion,60.8
+403,Moray,2012,Other Diversion,0
+404,Na h-Eileanan Siar,2012,Other Diversion,1888.8
+405,North Ayrshire,2012,Other Diversion,574
+406,North Lanarkshire,2012,Other Diversion,126.7
+407,Orkney Islands,2012,Other Diversion,5566.4
+408,Perth and Kinross,2012,Other Diversion,911.9
+409,Renfrewshire,2012,Other Diversion,3176.7
+410,Scottish Borders,2012,Other Diversion,773.3
+411,Shetland Islands,2012,Other Diversion,7603.4
+412,South Ayrshire,2012,Other Diversion,1144.9
+413,South Lanarkshire,2012,Other Diversion,362.6
+414,Stirling,2012,Other Diversion,689
+415,West Dunbartonshire,2012,Other Diversion,157.4
+416,West Lothian,2012,Other Diversion,226.5
+417,Aberdeen City,2013,Other Diversion,109.1
+418,Aberdeenshire,2013,Other Diversion,170
+419,Angus,2013,Other Diversion,5577.7
+420,Argyll and Bute,2013,Other Diversion,8639
+421,City of Edinburgh,2013,Other Diversion,2392.4
+422,Clackmannanshire,2013,Other Diversion,1754.8
+423,Dumfries and Galloway,2013,Other Diversion,27295.6
+424,Dundee City,2013,Other Diversion,15579.2
+425,East Ayrshire,2013,Other Diversion,1333.4
+426,East Dunbartonshire,2013,Other Diversion,4670
+427,East Lothian,2013,Other Diversion,0
+428,East Renfrewshire,2013,Other Diversion,79.6
+429,Falkirk,2013,Other Diversion,1954
+430,Fife,2013,Other Diversion,1966.2
+431,Glasgow City,2013,Other Diversion,0
+432,Highland,2013,Other Diversion,3924.5
+433,Inverclyde,2013,Other Diversion,31.8
+434,Midlothian,2013,Other Diversion,52
+435,Moray,2013,Other Diversion,0
+436,Na h-Eileanan Siar,2013,Other Diversion,1712.7
+437,North Ayrshire,2013,Other Diversion,726.7
+438,North Lanarkshire,2013,Other Diversion,11829.5
+439,Orkney Islands,2013,Other Diversion,5796.8
+440,Perth and Kinross,2013,Other Diversion,3420.9
+441,Renfrewshire,2013,Other Diversion,3327.1
+442,Scottish Borders,2013,Other Diversion,1242.3
+443,Shetland Islands,2013,Other Diversion,6636.3
+444,South Ayrshire,2013,Other Diversion,4848.5
+445,South Lanarkshire,2013,Other Diversion,375.5
+446,Stirling,2013,Other Diversion,3958.3
+447,West Dunbartonshire,2013,Other Diversion,275.9
+448,West Lothian,2013,Other Diversion,778.6
+449,Aberdeen City,2014,Other Diversion,286
+450,Aberdeenshire,2014,Other Diversion,177.2
+451,Angus,2014,Other Diversion,13049.6
+452,Argyll and Bute,2014,Other Diversion,9511.3
+453,City of Edinburgh,2014,Other Diversion,11160.3
+454,Clackmannanshire,2014,Other Diversion,1084.9
+455,Dumfries and Galloway,2014,Other Diversion,34722.4
+456,Dundee City,2014,Other Diversion,39054.1
+457,East Ayrshire,2014,Other Diversion,8613.6
+458,East Dunbartonshire,2014,Other Diversion,6271.7
+459,East Lothian,2014,Other Diversion,4007.9
+460,East Renfrewshire,2014,Other Diversion,334.8
+461,Falkirk,2014,Other Diversion,120.5
+462,Fife,2014,Other Diversion,4485.3
+463,Glasgow City,2014,Other Diversion,1837.7
+464,Highland,2014,Other Diversion,1753.7
+465,Inverclyde,2014,Other Diversion,142.2
+466,Midlothian,2014,Other Diversion,27.3
+467,Moray,2014,Other Diversion,0
+468,Na h-Eileanan Siar,2014,Other Diversion,1909.8
+469,North Ayrshire,2014,Other Diversion,612.8
+470,North Lanarkshire,2014,Other Diversion,5980.1
+471,Orkney Islands,2014,Other Diversion,5069.7
+472,Perth and Kinross,2014,Other Diversion,1860.1
+473,Renfrewshire,2014,Other Diversion,17708.6
+474,Scottish Borders,2014,Other Diversion,940.4
+475,Shetland Islands,2014,Other Diversion,6900.2
+476,South Ayrshire,2014,Other Diversion,8621.6
+477,South Lanarkshire,2014,Other Diversion,960.3
+478,Stirling,2014,Other Diversion,1811.4
+479,West Dunbartonshire,2014,Other Diversion,2420.8
+480,West Lothian,2014,Other Diversion,1709.6
+481,Aberdeen City,2015,Other Diversion,406.8
+482,Aberdeenshire,2015,Other Diversion,172.1
+483,Angus,2015,Other Diversion,10809.8
+484,Argyll and Bute,2015,Other Diversion,9039.9
+485,City of Edinburgh,2015,Other Diversion,13631.4
+486,Clackmannanshire,2015,Other Diversion,2432.7
+487,Dumfries and Galloway,2015,Other Diversion,35410.8
+488,Dundee City,2015,Other Diversion,40187.3
+489,East Ayrshire,2015,Other Diversion,7182.2
+490,East Dunbartonshire,2015,Other Diversion,4435.5
+491,East Lothian,2015,Other Diversion,2217.3
+492,East Renfrewshire,2015,Other Diversion,241.4
+493,Falkirk,2015,Other Diversion,4592.1
+494,Fife,2015,Other Diversion,9087.7
+495,Glasgow City,2015,Other Diversion,2360
+496,Highland,2015,Other Diversion,1184.5
+497,Inverclyde,2015,Other Diversion,141.1
+498,Midlothian,2015,Other Diversion,7714.1
+499,Moray,2015,Other Diversion,0
+500,Na h-Eileanan Siar,2015,Other Diversion,1948.4
+501,North Ayrshire,2015,Other Diversion,1586.8
+502,North Lanarkshire,2015,Other Diversion,16624.8
+503,Orkney Islands,2015,Other Diversion,4806.2
+504,Perth and Kinross,2015,Other Diversion,8011
+505,Renfrewshire,2015,Other Diversion,19821.3
+506,Scottish Borders,2015,Other Diversion,892.2
+507,Shetland Islands,2015,Other Diversion,7051.9
+508,South Ayrshire,2015,Other Diversion,7500.4
+509,South Lanarkshire,2015,Other Diversion,0
+510,Stirling,2015,Other Diversion,1563
+511,West Dunbartonshire,2015,Other Diversion,4138
+512,West Lothian,2015,Other Diversion,4331.8
+513,Aberdeen City,2016,Other Diversion,603.5
+514,Aberdeenshire,2016,Other Diversion,1564.1
+515,Angus,2016,Other Diversion,10205.9
+516,Argyll and Bute,2016,Other Diversion,8186.2
+517,City of Edinburgh,2016,Other Diversion,3425.6
+518,Clackmannanshire,2016,Other Diversion,3897.7
+519,Dumfries and Galloway,2016,Other Diversion,30173
+520,Dundee City,2016,Other Diversion,40499.4
+521,East Ayrshire,2016,Other Diversion,5934.9
+522,East Dunbartonshire,2016,Other Diversion,5909
+523,East Lothian,2016,Other Diversion,86.5
+524,East Renfrewshire,2016,Other Diversion,791.1
+525,Falkirk,2016,Other Diversion,11228.7
+526,Fife,2016,Other Diversion,8182.6
+527,Glasgow City,2016,Other Diversion,5983.2
+528,Highland,2016,Other Diversion,995
+529,Inverclyde,2016,Other Diversion,900.2
+530,Midlothian,2016,Other Diversion,6629
+531,Moray,2016,Other Diversion,0
+532,Na h-Eileanan Siar,2016,Other Diversion,1929
+533,North Ayrshire,2016,Other Diversion,1916.2
+534,North Lanarkshire,2016,Other Diversion,25296.6
+535,Orkney Islands,2016,Other Diversion,4996.8
+536,Perth and Kinross,2016,Other Diversion,8688.8
+537,Renfrewshire,2016,Other Diversion,22869.2
+538,Scottish Borders,2016,Other Diversion,954.9
+539,Shetland Islands,2016,Other Diversion,6952.9
+540,South Ayrshire,2016,Other Diversion,5974.4
+541,South Lanarkshire,2016,Other Diversion,0
+542,Stirling,2016,Other Diversion,7834.8
+543,West Dunbartonshire,2016,Other Diversion,4282.4
+544,West Lothian,2016,Other Diversion,4894.2
+545,Aberdeen City,2017,Other Diversion,17594.4
+546,Aberdeenshire,2017,Other Diversion,1996.9
+547,Angus,2017,Other Diversion,11839.7
+548,Argyll and Bute,2017,Other Diversion,7322.8
+549,City of Edinburgh,2017,Other Diversion,5205.7
+550,Clackmannanshire,2017,Other Diversion,2867
+551,Dumfries and Galloway,2017,Other Diversion,23318.3
+552,Dundee City,2017,Other Diversion,37485.7
+553,East Ayrshire,2017,Other Diversion,5353
+554,East Dunbartonshire,2017,Other Diversion,6295
+555,East Lothian,2017,Other Diversion,227.5
+556,East Renfrewshire,2017,Other Diversion,1480.4
+557,Falkirk,2017,Other Diversion,8504.1
+558,Fife,2017,Other Diversion,12146.5
+559,Glasgow City,2017,Other Diversion,13705.7
+560,Highland,2017,Other Diversion,1492.6
+561,Inverclyde,2017,Other Diversion,1528.5
+562,Midlothian,2017,Other Diversion,1819.4
+563,Moray,2017,Other Diversion,0.1
+564,Na h-Eileanan Siar,2017,Other Diversion,1638.8
+565,North Ayrshire,2017,Other Diversion,1777.8
+566,North Lanarkshire,2017,Other Diversion,7765
+567,Orkney Islands,2017,Other Diversion,4855.3
+568,Perth and Kinross,2017,Other Diversion,4715.4
+569,Renfrewshire,2017,Other Diversion,19871
+570,Scottish Borders,2017,Other Diversion,1555.3
+571,Shetland Islands,2017,Other Diversion,6798.3
+572,South Ayrshire,2017,Other Diversion,6850
+573,South Lanarkshire,2017,Other Diversion,0
+574,Stirling,2017,Other Diversion,6186.6
+575,West Dunbartonshire,2017,Other Diversion,3653.6
+576,West Lothian,2017,Other Diversion,6688
+577,Aberdeen City,2018,Other Diversion,27438.1
+578,Aberdeenshire,2018,Other Diversion,2783.8
+579,Angus,2018,Other Diversion,22346.1
+580,Argyll and Bute,2018,Other Diversion,7725.1
+581,City of Edinburgh,2018,Other Diversion,17678
+582,Clackmannanshire,2018,Other Diversion,491.6
+583,Dumfries and Galloway,2018,Other Diversion,22504.5
+584,Dundee City,2018,Other Diversion,34672.6
+585,East Ayrshire,2018,Other Diversion,4956.8
+586,East Dunbartonshire,2018,Other Diversion,9994.2
+587,East Lothian,2018,Other Diversion,1987
+588,East Renfrewshire,2018,Other Diversion,1084.6
+589,Falkirk,2018,Other Diversion,3175.3
+590,Fife,2018,Other Diversion,10560.3
+591,Glasgow City,2018,Other Diversion,17377.3
+592,Highland,2018,Other Diversion,7279.9
+593,Inverclyde,2018,Other Diversion,1724.2
+594,Midlothian,2018,Other Diversion,5193.6
+595,Moray,2018,Other Diversion,0
+596,Na h-Eileanan Siar,2018,Other Diversion,1756
+597,North Ayrshire,2018,Other Diversion,6815.2
+598,North Lanarkshire,2018,Other Diversion,19970
+599,Orkney Islands,2018,Other Diversion,4825.7
+600,Perth and Kinross,2018,Other Diversion,4045.4
+601,Renfrewshire,2018,Other Diversion,24087
+602,Scottish Borders,2018,Other Diversion,1455.3
+603,Shetland Islands,2018,Other Diversion,6476.6
+604,South Ayrshire,2018,Other Diversion,6490.5
+605,South Lanarkshire,2018,Other Diversion,11261.5
+606,Stirling,2018,Other Diversion,434
+607,West Dunbartonshire,2018,Other Diversion,4036.5
+608,West Lothian,2018,Other Diversion,7729.9
+609,Aberdeen City,2019,Other Diversion,27406.9
+610,Aberdeenshire,2019,Other Diversion,2617.8
+611,Angus,2019,Other Diversion,18781.7
+612,Argyll and Bute,2019,Other Diversion,6974.5
+613,City of Edinburgh,2019,Other Diversion,109305.4
+614,Clackmannanshire,2019,Other Diversion,7
+615,Dumfries and Galloway,2019,Other Diversion,34466.7
+616,Dundee City,2019,Other Diversion,35664.3
+617,East Ayrshire,2019,Other Diversion,4705.2
+618,East Dunbartonshire,2019,Other Diversion,13257.6
+619,East Lothian,2019,Other Diversion,14663.6
+620,East Renfrewshire,2019,Other Diversion,1103.5
+621,Falkirk,2019,Other Diversion,2232.7
+622,Fife,2019,Other Diversion,18846.6
+623,Glasgow City,2019,Other Diversion,66480.4
+624,Highland,2019,Other Diversion,9390.4
+625,Inverclyde,2019,Other Diversion,1770.6
+626,Midlothian,2019,Other Diversion,15599.9
+627,Moray,2019,Other Diversion,0
+628,Na h-Eileanan Siar,2019,Other Diversion,1891.8
+629,North Ayrshire,2019,Other Diversion,10027.5
+630,North Lanarkshire,2019,Other Diversion,57763.8
+631,Orkney Islands,2019,Other Diversion,5217.1
+632,Perth and Kinross,2019,Other Diversion,4275.1
+633,Renfrewshire,2019,Other Diversion,24764.1
+634,Scottish Borders,2019,Other Diversion,11517.5
+635,Shetland Islands,2019,Other Diversion,6083.5
+636,South Ayrshire,2019,Other Diversion,5168.7
+637,South Lanarkshire,2019,Other Diversion,41761.1
+638,Stirling,2019,Other Diversion,178.9
+639,West Dunbartonshire,2019,Other Diversion,4040.1
+640,West Lothian,2019,Other Diversion,20830.9
+641,Aberdeen City,2020,Other Diversion,29781.9
+642,Aberdeenshire,2020,Other Diversion,2505.4
+643,Angus,2020,Other Diversion,18924.1
+644,Argyll and Bute,2020,Other Diversion,6963.3
+645,City of Edinburgh,2020,Other Diversion,120302.2
+646,Clackmannanshire,2020,Other Diversion,1.9
+647,Dumfries and Galloway,2020,Other Diversion,33519.5
+648,Dundee City,2020,Other Diversion,36409.6
+649,East Ayrshire,2020,Other Diversion,5671.2
+650,East Dunbartonshire,2020,Other Diversion,19544.9
+651,East Lothian,2020,Other Diversion,19668.7
+652,East Renfrewshire,2020,Other Diversion,14384.3
+653,Falkirk,2020,Other Diversion,3778
+654,Fife,2020,Other Diversion,14633.3
+655,Glasgow City,2020,Other Diversion,110267.9
+656,Highland,2020,Other Diversion,5639.4
+657,Inverclyde,2020,Other Diversion,2030.3
+658,Midlothian,2020,Other Diversion,17332.2
+659,Moray,2020,Other Diversion,0
+660,Na h-Eileanan Siar,2020,Other Diversion,40.4
+661,North Ayrshire,2020,Other Diversion,24796.4
+662,North Lanarkshire,2020,Other Diversion,76848.6
+663,Orkney Islands,2020,Other Diversion,3259
+664,Perth and Kinross,2020,Other Diversion,5562.7
+665,Renfrewshire,2020,Other Diversion,32593
+666,Scottish Borders,2020,Other Diversion,23808.5
+667,Shetland Islands,2020,Other Diversion,5234.5
+668,South Ayrshire,2020,Other Diversion,5468.6
+669,South Lanarkshire,2020,Other Diversion,64167.8
+670,Stirling,2020,Other Diversion,295.3
+671,West Dunbartonshire,2020,Other Diversion,4977.1
+672,West Lothian,2020,Other Diversion,39406.2
+673,Aberdeen City,2021,Other Diversion,41798.9
+674,Aberdeenshire,2021,Other Diversion,2946.5
+675,Angus,2021,Other Diversion,22804.9
+676,Argyll and Bute,2021,Other Diversion,6805.8
+677,City of Edinburgh,2021,Other Diversion,120927.9
+678,Clackmannanshire,2021,Other Diversion,6.1
+679,Dumfries and Galloway,2021,Other Diversion,32090
+680,Dundee City,2021,Other Diversion,41334.8
+681,East Ayrshire,2021,Other Diversion,5100.8
+682,East Dunbartonshire,2021,Other Diversion,25518.8
+683,East Lothian,2021,Other Diversion,19372.6
+684,East Renfrewshire,2021,Other Diversion,16016
+685,Falkirk,2021,Other Diversion,3976.5
+686,Fife,2021,Other Diversion,14651
+687,Glasgow City,2021,Other Diversion,90855
+688,Highland,2021,Other Diversion,6021.7
+689,Inverclyde,2021,Other Diversion,2651.2
+690,Midlothian,2021,Other Diversion,17650.2
+691,Moray,2021,Other Diversion,0
+692,Na h-Eileanan Siar,2021,Other Diversion,55.3
+693,North Ayrshire,2021,Other Diversion,24138.9
+694,North Lanarkshire,2021,Other Diversion,72272
+695,Orkney Islands,2021,Other Diversion,4603.2
+696,Perth and Kinross,2021,Other Diversion,5861.4
+697,Renfrewshire,2021,Other Diversion,34255.9
+698,Scottish Borders,2021,Other Diversion,24434.7
+699,Shetland Islands,2021,Other Diversion,5593.7
+700,South Ayrshire,2021,Other Diversion,5755.1
+701,South Lanarkshire,2021,Other Diversion,60607.7
+702,Stirling,2021,Other Diversion,744.7
+703,West Dunbartonshire,2021,Other Diversion,5012.8
+704,West Lothian,2021,Other Diversion,44051.4
+705,Aberdeen City,2011,Recycled,34661.9
+706,Aberdeenshire,2011,Recycled,49734.9
+707,Angus,2011,Recycled,25991.9
+708,Argyll and Bute,2011,Recycled,12638.4
+709,City of Edinburgh,2011,Recycled,56936.3
+710,Clackmannanshire,2011,Recycled,15911.4
+711,Dumfries and Galloway,2011,Recycled,15857.7
+712,Dundee City,2011,Recycled,22141.1
+713,East Ayrshire,2011,Recycled,28510.8
+714,East Dunbartonshire,2011,Recycled,21006.3
+715,East Lothian,2011,Recycled,23432.7
+716,East Renfrewshire,2011,Recycled,23912.2
+717,Falkirk,2011,Recycled,41207.8
+718,Fife,2011,Recycled,114983.4
+719,Glasgow City,2011,Recycled,67016.9
+720,Highland,2011,Recycled,54577.4
+721,Inverclyde,2011,Recycled,13990.8
+722,Midlothian,2011,Recycled,20627.2
+723,Moray,2011,Recycled,23337.8
+724,Na h-Eileanan Siar,2011,Recycled,2151.3
+725,North Ayrshire,2011,Recycled,35318.9
+726,North Lanarkshire,2011,Recycled,62955.9
+727,Orkney Islands,2011,Recycled,1884.1
+728,Perth and Kinross,2011,Recycled,40888.8
+729,Renfrewshire,2011,Recycled,34891.5
+730,Scottish Borders,2011,Recycled,24897.6
+731,Shetland Islands,2011,Recycled,1657
+732,South Ayrshire,2011,Recycled,26833.5
+733,South Lanarkshire,2011,Recycled,57174.4
+734,Stirling,2011,Recycled,23538.6
+735,West Dunbartonshire,2011,Recycled,18505.5
+736,West Lothian,2011,Recycled,32573.2
+737,Aberdeen City,2012,Recycled,36242.2
+738,Aberdeenshire,2012,Recycled,47889.2
+739,Angus,2012,Recycled,24388.6
+740,Argyll and Bute,2012,Recycled,13996.1
+741,City of Edinburgh,2012,Recycled,66451.6
+742,Clackmannanshire,2012,Recycled,16348
+743,Dumfries and Galloway,2012,Recycled,15294.3
+744,Dundee City,2012,Recycled,20793.9
+745,East Ayrshire,2012,Recycled,26048.2
+746,East Dunbartonshire,2012,Recycled,20155.2
+747,East Lothian,2012,Recycled,23497.8
+748,East Renfrewshire,2012,Recycled,23745
+749,Falkirk,2012,Recycled,41978.6
+750,Fife,2012,Recycled,102310.2
+751,Glasgow City,2012,Recycled,69113.5
+752,Highland,2012,Recycled,54889.9
+753,Inverclyde,2012,Recycled,16842.7
+754,Midlothian,2012,Recycled,19278.3
+755,Moray,2012,Recycled,25904.7
+756,Na h-Eileanan Siar,2012,Recycled,2362.1
+757,North Ayrshire,2012,Recycled,32408
+758,North Lanarkshire,2012,Recycled,61886.1
+759,Orkney Islands,2012,Recycled,1610.5
+760,Perth and Kinross,2012,Recycled,40340.7
+761,Renfrewshire,2012,Recycled,31911.1
+762,Scottish Borders,2012,Recycled,22647.9
+763,Shetland Islands,2012,Recycled,1454.4
+764,South Ayrshire,2012,Recycled,26205.6
+765,South Lanarkshire,2012,Recycled,56435.9
+766,Stirling,2012,Recycled,24051.9
+767,West Dunbartonshire,2012,Recycled,17165
+768,West Lothian,2012,Recycled,31001.2
+769,Aberdeen City,2013,Recycled,34955.9
+770,Aberdeenshire,2013,Recycled,47218
+771,Angus,2013,Recycled,23416
+772,Argyll and Bute,2013,Recycled,15417
+773,City of Edinburgh,2013,Recycled,67796.2
+774,Clackmannanshire,2013,Recycled,16043.9
+775,Dumfries and Galloway,2013,Recycled,16204.5
+776,Dundee City,2013,Recycled,19111
+777,East Ayrshire,2013,Recycled,28382
+778,East Dunbartonshire,2013,Recycled,21988.5
+779,East Lothian,2013,Recycled,20879.1
+780,East Renfrewshire,2013,Recycled,24738.1
+781,Falkirk,2013,Recycled,38162.1
+782,Fife,2013,Recycled,105601.2
+783,Glasgow City,2013,Recycled,61309.9
+784,Highland,2013,Recycled,55585.7
+785,Inverclyde,2013,Recycled,16183.9
+786,Midlothian,2013,Recycled,16960.2
+787,Moray,2013,Recycled,24423.3
+788,Na h-Eileanan Siar,2013,Recycled,2568.6
+789,North Ayrshire,2013,Recycled,34616.9
+790,North Lanarkshire,2013,Recycled,64401.2
+791,Orkney Islands,2013,Recycled,1715.4
+792,Perth and Kinross,2013,Recycled,39224.4
+793,Renfrewshire,2013,Recycled,34740.7
+794,Scottish Borders,2013,Recycled,21178.6
+795,Shetland Islands,2013,Recycled,1234.7
+796,South Ayrshire,2013,Recycled,23526.4
+797,South Lanarkshire,2013,Recycled,56153.1
+798,Stirling,2013,Recycled,21448.2
+799,West Dunbartonshire,2013,Recycled,15903.2
+800,West Lothian,2013,Recycled,31155.4
+801,Aberdeen City,2014,Recycled,36741.8
+802,Aberdeenshire,2014,Recycled,52478
+803,Angus,2014,Recycled,30879
+804,Argyll and Bute,2014,Recycled,15655.6
+805,City of Edinburgh,2014,Recycled,70451.2
+806,Clackmannanshire,2014,Recycled,14929.3
+807,Dumfries and Galloway,2014,Recycled,15940.1
+808,Dundee City,2014,Recycled,20289.6
+809,East Ayrshire,2014,Recycled,28379.9
+810,East Dunbartonshire,2014,Recycled,23532.8
+811,East Lothian,2014,Recycled,22529.1
+812,East Renfrewshire,2014,Recycled,25950.3
+813,Falkirk,2014,Recycled,39980.7
+814,Fife,2014,Recycled,101059.7
+815,Glasgow City,2014,Recycled,57839.4
+816,Highland,2014,Recycled,60459.3
+817,Inverclyde,2014,Recycled,16169.6
+818,Midlothian,2014,Recycled,19110.7
+819,Moray,2014,Recycled,27681.1
+820,Na h-Eileanan Siar,2014,Recycled,2914.4
+821,North Ayrshire,2014,Recycled,36743.9
+822,North Lanarkshire,2014,Recycled,62527.6
+823,Orkney Islands,2014,Recycled,1830.7
+824,Perth and Kinross,2014,Recycled,42372
+825,Renfrewshire,2014,Recycled,37657.3
+826,Scottish Borders,2014,Recycled,18345.2
+827,Shetland Islands,2014,Recycled,899.3
+828,South Ayrshire,2014,Recycled,27750.5
+829,South Lanarkshire,2014,Recycled,68999.9
+830,Stirling,2014,Recycled,21551.3
+831,West Dunbartonshire,2014,Recycled,17876
+832,West Lothian,2014,Recycled,33715.4
+833,Aberdeen City,2015,Recycled,36678.9
+834,Aberdeenshire,2015,Recycled,56902.1
+835,Angus,2015,Recycled,34102
+836,Argyll and Bute,2015,Recycled,17513.9
+837,City of Edinburgh,2015,Recycled,80129.7
+838,Clackmannanshire,2015,Recycled,12791.6
+839,Dumfries and Galloway,2015,Recycled,16915
+840,Dundee City,2015,Recycled,22373
+841,East Ayrshire,2015,Recycled,29860.9
+842,East Dunbartonshire,2015,Recycled,27454.5
+843,East Lothian,2015,Recycled,26162.9
+844,East Renfrewshire,2015,Recycled,26449.2
+845,Falkirk,2015,Recycled,39010.7
+846,Fife,2015,Recycled,99965.3
+847,Glasgow City,2015,Recycled,57624.1
+848,Highland,2015,Recycled,58147.3
+849,Inverclyde,2015,Recycled,15592.1
+850,Midlothian,2015,Recycled,20135.6
+851,Moray,2015,Recycled,28777.9
+852,Na h-Eileanan Siar,2015,Recycled,2972.6
+853,North Ayrshire,2015,Recycled,35948.5
+854,North Lanarkshire,2015,Recycled,62339.4
+855,Orkney Islands,2015,Recycled,1801.5
+856,Perth and Kinross,2015,Recycled,41328.4
+857,Renfrewshire,2015,Recycled,36426.8
+858,Scottish Borders,2015,Recycled,18600.4
+859,Shetland Islands,2015,Recycled,939.4
+860,South Ayrshire,2015,Recycled,28652.7
+861,South Lanarkshire,2015,Recycled,74240.8
+862,Stirling,2015,Recycled,22583.9
+863,West Dunbartonshire,2015,Recycled,20914.4
+864,West Lothian,2015,Recycled,35092.2
+865,Aberdeen City,2016,Recycled,37498.6
+866,Aberdeenshire,2016,Recycled,57304.7
+867,Angus,2016,Recycled,33371.1
+868,Argyll and Bute,2016,Recycled,18188.3
+869,City of Edinburgh,2016,Recycled,86317.3
+870,Clackmannanshire,2016,Recycled,15305.9
+871,Dumfries and Galloway,2016,Recycled,17659.5
+872,Dundee City,2016,Recycled,22860.6
+873,East Ayrshire,2016,Recycled,30062.2
+874,East Dunbartonshire,2016,Recycled,27085
+875,East Lothian,2016,Recycled,26337
+876,East Renfrewshire,2016,Recycled,29009.9
+877,Falkirk,2016,Recycled,36831.6
+878,Fife,2016,Recycled,102608.6
+879,Glasgow City,2016,Recycled,54552.4
+880,Highland,2016,Recycled,58231.5
+881,Inverclyde,2016,Recycled,15692.5
+882,Midlothian,2016,Recycled,21928.5
+883,Moray,2016,Recycled,30696.5
+884,Na h-Eileanan Siar,2016,Recycled,3607.5
+885,North Ayrshire,2016,Recycled,35308.8
+886,North Lanarkshire,2016,Recycled,66207.5
+887,Orkney Islands,2016,Recycled,2006.9
+888,Perth and Kinross,2016,Recycled,43032.7
+889,Renfrewshire,2016,Recycled,40546.8
+890,Scottish Borders,2016,Recycled,20264.6
+891,Shetland Islands,2016,Recycled,786.6
+892,South Ayrshire,2016,Recycled,28189.8
+893,South Lanarkshire,2016,Recycled,80820.5
+894,Stirling,2016,Recycled,24236.5
+895,West Dunbartonshire,2016,Recycled,21784.9
+896,West Lothian,2016,Recycled,36591.1
+897,Aberdeen City,2017,Recycled,38568.2
+898,Aberdeenshire,2017,Recycled,55714
+899,Angus,2017,Recycled,31071.7
+900,Argyll and Bute,2017,Recycled,19536.2
+901,City of Edinburgh,2017,Recycled,82277.6
+902,Clackmannanshire,2017,Recycled,16196
+903,Dumfries and Galloway,2017,Recycled,21245.2
+904,Dundee City,2017,Recycled,22844.4
+905,East Ayrshire,2017,Recycled,29547.4
+906,East Dunbartonshire,2017,Recycled,27043
+907,East Lothian,2017,Recycled,26884.9
+908,East Renfrewshire,2017,Recycled,31936.9
+909,Falkirk,2017,Recycled,41727.8
+910,Fife,2017,Recycled,97545.8
+911,Glasgow City,2017,Recycled,59875.7
+912,Highland,2017,Recycled,56704.4
+913,Inverclyde,2017,Recycled,15770.9
+914,Midlothian,2017,Recycled,22049.3
+915,Moray,2017,Recycled,29517
+916,Na h-Eileanan Siar,2017,Recycled,3461.4
+917,North Ayrshire,2017,Recycled,35124.8
+918,North Lanarkshire,2017,Recycled,62036.9
+919,Orkney Islands,2017,Recycled,1979.5
+920,Perth and Kinross,2017,Recycled,41577.9
+921,Renfrewshire,2017,Recycled,39922.8
+922,Scottish Borders,2017,Recycled,21324.2
+923,Shetland Islands,2017,Recycled,778.1
+924,South Ayrshire,2017,Recycled,29793.5
+925,South Lanarkshire,2017,Recycled,71752.6
+926,Stirling,2017,Recycled,22470.2
+927,West Dunbartonshire,2017,Recycled,20735.3
+928,West Lothian,2017,Recycled,43556.3
+929,Aberdeen City,2018,Recycled,40483.2
+930,Aberdeenshire,2018,Recycled,52298.3
+931,Angus,2018,Recycled,29889.8
+932,Argyll and Bute,2018,Recycled,18149.5
+933,City of Edinburgh,2018,Recycled,74961.8
+934,Clackmannanshire,2018,Recycled,14705.8
+935,Dumfries and Galloway,2018,Recycled,21757.5
+936,Dundee City,2018,Recycled,21760.9
+937,East Ayrshire,2018,Recycled,27552.8
+938,East Dunbartonshire,2018,Recycled,28212.8
+939,East Lothian,2018,Recycled,26623
+940,East Renfrewshire,2018,Recycled,29089.6
+941,Falkirk,2018,Recycled,34800
+942,Fife,2018,Recycled,85471
+943,Glasgow City,2018,Recycled,60438.4
+944,Highland,2018,Recycled,54571
+945,Inverclyde,2018,Recycled,15689.6
+946,Midlothian,2018,Recycled,24369
+947,Moray,2018,Recycled,27256.5
+948,Na h-Eileanan Siar,2018,Recycled,3304.8
+949,North Ayrshire,2018,Recycled,33509.6
+950,North Lanarkshire,2018,Recycled,63879
+951,Orkney Islands,2018,Recycled,2153
+952,Perth and Kinross,2018,Recycled,37120
+953,Renfrewshire,2018,Recycled,39998.1
+954,Scottish Borders,2018,Recycled,20365
+955,Shetland Islands,2018,Recycled,1017
+956,South Ayrshire,2018,Recycled,29339.9
+957,South Lanarkshire,2018,Recycled,66675.8
+958,Stirling,2018,Recycled,22687.5
+959,West Dunbartonshire,2018,Recycled,18205.7
+960,West Lothian,2018,Recycled,48340.4
+961,Aberdeen City,2019,Recycled,42230.1
+962,Aberdeenshire,2019,Recycled,54017.9
+963,Angus,2019,Recycled,31057.8
+964,Argyll and Bute,2019,Recycled,18101.4
+965,City of Edinburgh,2019,Recycled,74177.5
+966,Clackmannanshire,2019,Recycled,14125
+967,Dumfries and Galloway,2019,Recycled,22672.4
+968,Dundee City,2019,Recycled,25074.5
+969,East Ayrshire,2019,Recycled,29299.9
+970,East Dunbartonshire,2019,Recycled,29145
+971,East Lothian,2019,Recycled,27643.6
+972,East Renfrewshire,2019,Recycled,32953.3
+973,Falkirk,2019,Recycled,37134.3
+974,Fife,2019,Recycled,77856
+975,Glasgow City,2019,Recycled,62200.6
+976,Highland,2019,Recycled,51441.5
+977,Inverclyde,2019,Recycled,14944.5
+978,Midlothian,2019,Recycled,20643.4
+979,Moray,2019,Recycled,27829.3
+980,Na h-Eileanan Siar,2019,Recycled,2817.3
+981,North Ayrshire,2019,Recycled,33987.6
+982,North Lanarkshire,2019,Recycled,60461.9
+983,Orkney Islands,2019,Recycled,1961.9
+984,Perth and Kinross,2019,Recycled,39172.2
+985,Renfrewshire,2019,Recycled,43211.4
+986,Scottish Borders,2019,Recycled,25718.1
+987,Shetland Islands,2019,Recycled,1651.6
+988,South Ayrshire,2019,Recycled,30351
+989,South Lanarkshire,2019,Recycled,68135.5
+990,Stirling,2019,Recycled,23291.8
+991,West Dunbartonshire,2019,Recycled,17871.1
+992,West Lothian,2019,Recycled,45095.4
+993,Aberdeen City,2020,Recycled,43778.5
+994,Aberdeenshire,2020,Recycled,46942.2
+995,Angus,2020,Recycled,30226.5
+996,Argyll and Bute,2020,Recycled,13261.8
+997,City of Edinburgh,2020,Recycled,74466.9
+998,Clackmannanshire,2020,Recycled,11296.1
+999,Dumfries and Galloway,2020,Recycled,19580.8
+1000,Dundee City,2020,Recycled,22056.6
+1001,East Ayrshire,2020,Recycled,21507.8
+1002,East Dunbartonshire,2020,Recycled,27776.1
+1003,East Lothian,2020,Recycled,27136.8
+1004,East Renfrewshire,2020,Recycled,25097.9
+1005,Falkirk,2020,Recycled,39438.3
+1006,Fife,2020,Recycled,68218.9
+1007,Glasgow City,2020,Recycled,78816
+1008,Highland,2020,Recycled,38909.2
+1009,Inverclyde,2020,Recycled,10760
+1010,Midlothian,2020,Recycled,19937.7
+1011,Moray,2020,Recycled,22792.1
+1012,Na h-Eileanan Siar,2020,Recycled,4553.2
+1013,North Ayrshire,2020,Recycled,32176.8
+1014,North Lanarkshire,2020,Recycled,61714.7
+1015,Orkney Islands,2020,Recycled,1984.5
+1016,Perth and Kinross,2020,Recycled,38311.5
+1017,Renfrewshire,2020,Recycled,41262.2
+1018,Scottish Borders,2020,Recycled,26770.9
+1019,Shetland Islands,2020,Recycled,1673.8
+1020,South Ayrshire,2020,Recycled,31201.8
+1021,South Lanarkshire,2020,Recycled,62198.5
+1022,Stirling,2020,Recycled,21295.2
+1023,West Dunbartonshire,2020,Recycled,16336.7
+1024,West Lothian,2020,Recycled,38785.7
+1025,Aberdeen City,2021,Recycled,42573.7
+1026,Aberdeenshire,2021,Recycled,48265.3
+1027,Angus,2021,Recycled,29592.1
+1028,Argyll and Bute,2021,Recycled,19286.1
+1029,City of Edinburgh,2021,Recycled,79270.4
+1030,Clackmannanshire,2021,Recycled,11880.3
+1031,Dumfries and Galloway,2021,Recycled,26472.9
+1032,Dundee City,2021,Recycled,21225.5
+1033,East Ayrshire,2021,Recycled,25875.8
+1034,East Dunbartonshire,2021,Recycled,26111.8
+1035,East Lothian,2021,Recycled,29093
+1036,East Renfrewshire,2021,Recycled,23572.7
+1037,Falkirk,2021,Recycled,36258.1
+1038,Fife,2021,Recycled,72787.6
+1039,Glasgow City,2021,Recycled,70669.3
+1040,Highland,2021,Recycled,43337.2
+1041,Inverclyde,2021,Recycled,12906.2
+1042,Midlothian,2021,Recycled,20757.6
+1043,Moray,2021,Recycled,22209.9
+1044,Na h-Eileanan Siar,2021,Recycled,4733.2
+1045,North Ayrshire,2021,Recycled,35513.3
+1046,North Lanarkshire,2021,Recycled,69608.6
+1047,Orkney Islands,2021,Recycled,2215.5
+1048,Perth and Kinross,2021,Recycled,38802.1
+1049,Renfrewshire,2021,Recycled,44194.6
+1050,Scottish Borders,2021,Recycled,29910.9
+1051,Shetland Islands,2021,Recycled,1632.1
+1052,South Ayrshire,2021,Recycled,32366.9
+1053,South Lanarkshire,2021,Recycled,66494.2
+1054,Stirling,2021,Recycled,22345.9
+1055,West Dunbartonshire,2021,Recycled,15123.2
+1056,West Lothian,2021,Recycled,35957.7
+1057,Aberdeen City,2011,Waste Generated,97183.8
+1058,Aberdeenshire,2011,Waste Generated,148052.5
+1059,Angus,2011,Waste Generated,62199.8
+1060,Argyll and Bute,2011,Waste Generated,46301
+1061,City of Edinburgh,2011,Waste Generated,189697.2
+1062,Clackmannanshire,2011,Waste Generated,30598
+1063,Dumfries and Galloway,2011,Waste Generated,81620.1
+1064,Dundee City,2011,Waste Generated,68367.6
+1065,East Ayrshire,2011,Waste Generated,61087.2
+1066,East Dunbartonshire,2011,Waste Generated,58998.3
+1067,East Lothian,2011,Waste Generated,53163.5
+1068,East Renfrewshire,2011,Waste Generated,45191.4
+1069,Falkirk,2011,Waste Generated,78177.1
+1070,Fife,2011,Waste Generated,214552.2
+1071,Glasgow City,2011,Waste Generated,250708.7
+1072,Highland,2011,Waste Generated,125454.5
+1073,Inverclyde,2011,Waste Generated,33937.6
+1074,Midlothian,2011,Waste Generated,43849.4
+1075,Moray,2011,Waste Generated,52334.2
+1076,Na h-Eileanan Siar,2011,Waste Generated,16509.3
+1077,North Ayrshire,2011,Waste Generated,68311.6
+1078,North Lanarkshire,2011,Waste Generated,160246
+1079,Orkney Islands,2011,Waste Generated,10254.7
+1080,Perth and Kinross,2011,Waste Generated,79918.2
+1081,Renfrewshire,2011,Waste Generated,82571
+1082,Scottish Borders,2011,Waste Generated,53821.5
+1083,Shetland Islands,2011,Waste Generated,11792
+1084,South Ayrshire,2011,Waste Generated,58481.2
+1085,South Lanarkshire,2011,Waste Generated,163213.8
+1086,Stirling,2011,Waste Generated,44023.8
+1087,West Dunbartonshire,2011,Waste Generated,41168.5
+1088,West Lothian,2011,Waste Generated,74975.6
+1089,Aberdeen City,2012,Waste Generated,97230.4
+1090,Aberdeenshire,2012,Waste Generated,134707.9
+1091,Angus,2012,Waste Generated,60803.5
+1092,Argyll and Bute,2012,Waste Generated,48509
+1093,City of Edinburgh,2012,Waste Generated,187716.2
+1094,Clackmannanshire,2012,Waste Generated,27736.4
+1095,Dumfries and Galloway,2012,Waste Generated,77709.3
+1096,Dundee City,2012,Waste Generated,70103.1
+1097,East Ayrshire,2012,Waste Generated,58793.4
+1098,East Dunbartonshire,2012,Waste Generated,55233.4
+1099,East Lothian,2012,Waste Generated,52352.5
+1100,East Renfrewshire,2012,Waste Generated,43986.1
+1101,Falkirk,2012,Waste Generated,76111
+1102,Fife,2012,Waste Generated,195595.1
+1103,Glasgow City,2012,Waste Generated,234209.4
+1104,Highland,2012,Waste Generated,126183.4
+1105,Inverclyde,2012,Waste Generated,33248.4
+1106,Midlothian,2012,Waste Generated,42701.2
+1107,Moray,2012,Waste Generated,49883.8
+1108,Na h-Eileanan Siar,2012,Waste Generated,14301.4
+1109,North Ayrshire,2012,Waste Generated,62735.3
+1110,North Lanarkshire,2012,Waste Generated,155836.9
+1111,Orkney Islands,2012,Waste Generated,10232.5
+1112,Perth and Kinross,2012,Waste Generated,75013.8
+1113,Renfrewshire,2012,Waste Generated,82126.1
+1114,Scottish Borders,2012,Waste Generated,52861.3
+1115,Shetland Islands,2012,Waste Generated,10859.4
+1116,South Ayrshire,2012,Waste Generated,57626.8
+1117,South Lanarkshire,2012,Waste Generated,151923.3
+1118,Stirling,2012,Waste Generated,43190.1
+1119,West Dunbartonshire,2012,Waste Generated,38944.4
+1120,West Lothian,2012,Waste Generated,72532.2
+1121,Aberdeen City,2013,Waste Generated,94116.5
+1122,Aberdeenshire,2013,Waste Generated,131809
+1123,Angus,2013,Waste Generated,54258.3
+1124,Argyll and Bute,2013,Waste Generated,49244
+1125,City of Edinburgh,2013,Waste Generated,184360.5
+1126,Clackmannanshire,2013,Waste Generated,26816.9
+1127,Dumfries and Galloway,2013,Waste Generated,75501
+1128,Dundee City,2013,Waste Generated,61485.3
+1129,East Ayrshire,2013,Waste Generated,58282.6
+1130,East Dunbartonshire,2013,Waste Generated,51997.7
+1131,East Lothian,2013,Waste Generated,49334.8
+1132,East Renfrewshire,2013,Waste Generated,44056.7
+1133,Falkirk,2013,Waste Generated,71950
+1134,Fife,2013,Waste Generated,190784.3
+1135,Glasgow City,2013,Waste Generated,227940.4
+1136,Highland,2013,Waste Generated,125679.2
+1137,Inverclyde,2013,Waste Generated,29182.9
+1138,Midlothian,2013,Waste Generated,40177.4
+1139,Moray,2013,Waste Generated,47533
+1140,Na h-Eileanan Siar,2013,Waste Generated,12738.2
+1141,North Ayrshire,2013,Waste Generated,61909.7
+1142,North Lanarkshire,2013,Waste Generated,152724.5
+1143,Orkney Islands,2013,Waste Generated,9923.2
+1144,Perth and Kinross,2013,Waste Generated,74267.4
+1145,Renfrewshire,2013,Waste Generated,78416.7
+1146,Scottish Borders,2013,Waste Generated,51242
+1147,Shetland Islands,2013,Waste Generated,10140.4
+1148,South Ayrshire,2013,Waste Generated,55423.2
+1149,South Lanarkshire,2013,Waste Generated,144734.2
+1150,Stirling,2013,Waste Generated,39922.8
+1151,West Dunbartonshire,2013,Waste Generated,36206.3
+1152,West Lothian,2013,Waste Generated,70473.2
+1153,Aberdeen City,2014,Waste Generated,96129.8
+1154,Aberdeenshire,2014,Waste Generated,131388.6
+1155,Angus,2014,Waste Generated,58892
+1156,Argyll and Bute,2014,Waste Generated,52359
+1157,City of Edinburgh,2014,Waste Generated,189525.4
+1158,Clackmannanshire,2014,Waste Generated,26785.6
+1159,Dumfries and Galloway,2014,Waste Generated,76454.3
+1160,Dundee City,2014,Waste Generated,63737.7
+1161,East Ayrshire,2014,Waste Generated,56391.7
+1162,East Dunbartonshire,2014,Waste Generated,52897.5
+1163,East Lothian,2014,Waste Generated,52659.9
+1164,East Renfrewshire,2014,Waste Generated,46223.6
+1165,Falkirk,2014,Waste Generated,73620.6
+1166,Fife,2014,Waste Generated,188211.9
+1167,Glasgow City,2014,Waste Generated,224488
+1168,Highland,2014,Waste Generated,131227.6
+1169,Inverclyde,2014,Waste Generated,28456.4
+1170,Midlothian,2014,Waste Generated,40726
+1171,Moray,2014,Waste Generated,50901.6
+1172,Na h-Eileanan Siar,2014,Waste Generated,13478.7
+1173,North Ayrshire,2014,Waste Generated,65064.7
+1174,North Lanarkshire,2014,Waste Generated,150308.4
+1175,Orkney Islands,2014,Waste Generated,10567.8
+1176,Perth and Kinross,2014,Waste Generated,74949.2
+1177,Renfrewshire,2014,Waste Generated,80858.2
+1178,Scottish Borders,2014,Waste Generated,49952
+1179,Shetland Islands,2014,Waste Generated,9942.1
+1180,South Ayrshire,2014,Waste Generated,55477.2
+1181,South Lanarkshire,2014,Waste Generated,153491.6
+1182,Stirling,2014,Waste Generated,40554.8
+1183,West Dunbartonshire,2014,Waste Generated,40337.6
+1184,West Lothian,2014,Waste Generated,73498.2
+1185,Aberdeen City,2015,Waste Generated,95240.7
+1186,Aberdeenshire,2015,Waste Generated,130249.6
+1187,Angus,2015,Waste Generated,57608.6
+1188,Argyll and Bute,2015,Waste Generated,51847
+1189,City of Edinburgh,2015,Waste Generated,189573.8
+1190,Clackmannanshire,2015,Waste Generated,26621
+1191,Dumfries and Galloway,2015,Waste Generated,74092.4
+1192,Dundee City,2015,Waste Generated,67182.3
+1193,East Ayrshire,2015,Waste Generated,56374.3
+1194,East Dunbartonshire,2015,Waste Generated,54191.3
+1195,East Lothian,2015,Waste Generated,50906
+1196,East Renfrewshire,2015,Waste Generated,46880.2
+1197,Falkirk,2015,Waste Generated,72329.6
+1198,Fife,2015,Waste Generated,191152.8
+1199,Glasgow City,2015,Waste Generated,221901.6
+1200,Highland,2015,Waste Generated,130780.4
+1201,Inverclyde,2015,Waste Generated,28492.8
+1202,Midlothian,2015,Waste Generated,42076.6
+1203,Moray,2015,Waste Generated,50116.1
+1204,Na h-Eileanan Siar,2015,Waste Generated,14012.7
+1205,North Ayrshire,2015,Waste Generated,64193.4
+1206,North Lanarkshire,2015,Waste Generated,155937.3
+1207,Orkney Islands,2015,Waste Generated,9370.9
+1208,Perth and Kinross,2015,Waste Generated,76186.5
+1209,Renfrewshire,2015,Waste Generated,83058.5
+1210,Scottish Borders,2015,Waste Generated,49847.9
+1211,Shetland Islands,2015,Waste Generated,10249.7
+1212,South Ayrshire,2015,Waste Generated,55652.4
+1213,South Lanarkshire,2015,Waste Generated,151656.4
+1214,Stirling,2015,Waste Generated,41929.3
+1215,West Dunbartonshire,2015,Waste Generated,45088.2
+1216,West Lothian,2015,Waste Generated,73982.3
+1217,Aberdeen City,2016,Waste Generated,96122.7
+1218,Aberdeenshire,2016,Waste Generated,131863.5
+1219,Angus,2016,Waste Generated,58846.9
+1220,Argyll and Bute,2016,Waste Generated,53689
+1221,City of Edinburgh,2016,Waste Generated,193332.7
+1222,Clackmannanshire,2016,Waste Generated,27090.9
+1223,Dumfries and Galloway,2016,Waste Generated,79807.4
+1224,Dundee City,2016,Waste Generated,67998.5
+1225,East Ayrshire,2016,Waste Generated,56434.2
+1226,East Dunbartonshire,2016,Waste Generated,55852
+1227,East Lothian,2016,Waste Generated,50874.4
+1228,East Renfrewshire,2016,Waste Generated,47723.8
+1229,Falkirk,2016,Waste Generated,71783.1
+1230,Fife,2016,Waste Generated,187746.4
+1231,Glasgow City,2016,Waste Generated,216872.6
+1232,Highland,2016,Waste Generated,130959.1
+1233,Inverclyde,2016,Waste Generated,29362.7
+1234,Midlothian,2016,Waste Generated,42636.8
+1235,Moray,2016,Waste Generated,51950.5
+1236,Na h-Eileanan Siar,2016,Waste Generated,14959.6
+1237,North Ayrshire,2016,Waste Generated,63838.2
+1238,North Lanarkshire,2016,Waste Generated,160914
+1239,Orkney Islands,2016,Waste Generated,10348.7
+1240,Perth and Kinross,2016,Waste Generated,78729.9
+1241,Renfrewshire,2016,Waste Generated,83660.9
+1242,Scottish Borders,2016,Waste Generated,51921.2
+1243,Shetland Islands,2016,Waste Generated,9995.6
+1244,South Ayrshire,2016,Waste Generated,56484.6
+1245,South Lanarkshire,2016,Waste Generated,152535.4
+1246,Stirling,2016,Waste Generated,44270.5
+1247,West Dunbartonshire,2016,Waste Generated,44936
+1248,West Lothian,2016,Waste Generated,75437.7
+1249,Aberdeen City,2017,Waste Generated,87786.6
+1250,Aberdeenshire,2017,Waste Generated,127632.2
+1251,Angus,2017,Waste Generated,56277.8
+1252,Argyll and Bute,2017,Waste Generated,50437
+1253,City of Edinburgh,2017,Waste Generated,200720.1
+1254,Clackmannanshire,2017,Waste Generated,27200.8
+1255,Dumfries and Galloway,2017,Waste Generated,76288.6
+1256,Dundee City,2017,Waste Generated,64346.8
+1257,East Ayrshire,2017,Waste Generated,55841.6
+1258,East Dunbartonshire,2017,Waste Generated,56445
+1259,East Lothian,2017,Waste Generated,50611.7
+1260,East Renfrewshire,2017,Waste Generated,47563.6
+1261,Falkirk,2017,Waste Generated,74651.2
+1262,Fife,2017,Waste Generated,178478.4
+1263,Glasgow City,2017,Waste Generated,224524.4
+1264,Highland,2017,Waste Generated,130190.3
+1265,Inverclyde,2017,Waste Generated,27564.8
+1266,Midlothian,2017,Waste Generated,42725.5
+1267,Moray,2017,Waste Generated,51089.9
+1268,Na h-Eileanan Siar,2017,Waste Generated,14453.2
+1269,North Ayrshire,2017,Waste Generated,62954.2
+1270,North Lanarkshire,2017,Waste Generated,156813.1
+1271,Orkney Islands,2017,Waste Generated,10798
+1272,Perth and Kinross,2017,Waste Generated,74788.8
+1273,Renfrewshire,2017,Waste Generated,83526.3
+1274,Scottish Borders,2017,Waste Generated,53471.4
+1275,Shetland Islands,2017,Waste Generated,9754.1
+1276,South Ayrshire,2017,Waste Generated,56771.8
+1277,South Lanarkshire,2017,Waste Generated,151739.6
+1278,Stirling,2017,Waste Generated,40773.9
+1279,West Dunbartonshire,2017,Waste Generated,43551
+1280,West Lothian,2017,Waste Generated,71050.6
+1281,Aberdeen City,2018,Waste Generated,85539.7
+1282,Aberdeenshire,2018,Waste Generated,120518.7
+1283,Angus,2018,Waste Generated,54619.1
+1284,Argyll and Bute,2018,Waste Generated,47972.1
+1285,City of Edinburgh,2018,Waste Generated,193341.3
+1286,Clackmannanshire,2018,Waste Generated,26121.8
+1287,Dumfries and Galloway,2018,Waste Generated,79324.9
+1288,Dundee City,2018,Waste Generated,60772.8
+1289,East Ayrshire,2018,Waste Generated,53147.6
+1290,East Dunbartonshire,2018,Waste Generated,51642.9
+1291,East Lothian,2018,Waste Generated,50134
+1292,East Renfrewshire,2018,Waste Generated,43927.4
+1293,Falkirk,2018,Waste Generated,68570.8
+1294,Fife,2018,Waste Generated,167353.3
+1295,Glasgow City,2018,Waste Generated,245318.1
+1296,Highland,2018,Waste Generated,127880.5
+1297,Inverclyde,2018,Waste Generated,28027.2
+1298,Midlothian,2018,Waste Generated,41889.6
+1299,Moray,2018,Waste Generated,47522.5
+1300,Na h-Eileanan Siar,2018,Waste Generated,14325.3
+1301,North Ayrshire,2018,Waste Generated,61421
+1302,North Lanarkshire,2018,Waste Generated,146175.3
+1303,Orkney Islands,2018,Waste Generated,10220.5
+1304,Perth and Kinross,2018,Waste Generated,71814.9
+1305,Renfrewshire,2018,Waste Generated,81254.8
+1306,Scottish Borders,2018,Waste Generated,52491.1
+1307,Shetland Islands,2018,Waste Generated,9649.2
+1308,South Ayrshire,2018,Waste Generated,55814.5
+1309,South Lanarkshire,2018,Waste Generated,150470.1
+1310,Stirling,2018,Waste Generated,41925.1
+1311,West Dunbartonshire,2018,Waste Generated,41866.4
+1312,West Lothian,2018,Waste Generated,74194
+1313,Aberdeen City,2019,Waste Generated,84642.6
+1314,Aberdeenshire,2019,Waste Generated,122830.3
+1315,Angus,2019,Waste Generated,52541.2
+1316,Argyll and Bute,2019,Waste Generated,46901
+1317,City of Edinburgh,2019,Waste Generated,192069.8
+1318,Clackmannanshire,2019,Waste Generated,25473.5
+1319,Dumfries and Galloway,2019,Waste Generated,76786.5
+1320,Dundee City,2019,Waste Generated,65259.4
+1321,East Ayrshire,2019,Waste Generated,55096.8
+1322,East Dunbartonshire,2019,Waste Generated,52692.1
+1323,East Lothian,2019,Waste Generated,49978.8
+1324,East Renfrewshire,2019,Waste Generated,48608.8
+1325,Falkirk,2019,Waste Generated,70031.9
+1326,Fife,2019,Waste Generated,174977.5
+1327,Glasgow City,2019,Waste Generated,252147.5
+1328,Highland,2019,Waste Generated,124688.5
+1329,Inverclyde,2019,Waste Generated,27698.5
+1330,Midlothian,2019,Waste Generated,40609.9
+1331,Moray,2019,Waste Generated,47186.6
+1332,Na h-Eileanan Siar,2019,Waste Generated,13709.6
+1333,North Ayrshire,2019,Waste Generated,60321.5
+1334,North Lanarkshire,2019,Waste Generated,149976.9
+1335,Orkney Islands,2019,Waste Generated,10427.9
+1336,Perth and Kinross,2019,Waste Generated,74292.6
+1337,Renfrewshire,2019,Waste Generated,81460.5
+1338,Scottish Borders,2019,Waste Generated,52300.1
+1339,Shetland Islands,2019,Waste Generated,9647.7
+1340,South Ayrshire,2019,Waste Generated,52639.7
+1341,South Lanarkshire,2019,Waste Generated,146941.2
+1342,Stirling,2019,Waste Generated,42503.9
+1343,West Dunbartonshire,2019,Waste Generated,39905.3
+1344,West Lothian,2019,Waste Generated,77443.8
+1345,Aberdeen City,2020,Waste Generated,95918.6
+1346,Aberdeenshire,2020,Waste Generated,114951.1
+1347,Angus,2020,Waste Generated,52166.4
+1348,Argyll and Bute,2020,Waste Generated,42567
+1349,City of Edinburgh,2020,Waste Generated,201202.3
+1350,Clackmannanshire,2020,Waste Generated,23221.3
+1351,Dumfries and Galloway,2020,Waste Generated,65038.6
+1352,Dundee City,2020,Waste Generated,63609.5
+1353,East Ayrshire,2020,Waste Generated,52305
+1354,East Dunbartonshire,2020,Waste Generated,54572.8
+1355,East Lothian,2020,Waste Generated,51755.1
+1356,East Renfrewshire,2020,Waste Generated,44360.2
+1357,Falkirk,2020,Waste Generated,77069.2
+1358,Fife,2020,Waste Generated,156150.9
+1359,Glasgow City,2020,Waste Generated,265909.7
+1360,Highland,2020,Waste Generated,109108.8
+1361,Inverclyde,2020,Waste Generated,29009.2
+1362,Midlothian,2020,Waste Generated,42152.7
+1363,Moray,2020,Waste Generated,41520.6
+1364,Na h-Eileanan Siar,2020,Waste Generated,13146.2
+1365,North Ayrshire,2020,Waste Generated,61773.6
+1366,North Lanarkshire,2020,Waste Generated,156611.7
+1367,Orkney Islands,2020,Waste Generated,7676.9
+1368,Perth and Kinross,2020,Waste Generated,77535.1
+1369,Renfrewshire,2020,Waste Generated,84010.7
+1370,Scottish Borders,2020,Waste Generated,50715.5
+1371,Shetland Islands,2020,Waste Generated,9087
+1372,South Ayrshire,2020,Waste Generated,56376.2
+1373,South Lanarkshire,2020,Waste Generated,153658.1
+1374,Stirling,2020,Waste Generated,44504.5
+1375,West Dunbartonshire,2020,Waste Generated,44351.8
+1376,West Lothian,2020,Waste Generated,86217.4
+1377,Aberdeen City,2021,Waste Generated,93748.6
+1378,Aberdeenshire,2021,Waste Generated,117503.2
+1379,Angus,2021,Waste Generated,54058.6
+1380,Argyll and Bute,2021,Waste Generated,49042
+1381,City of Edinburgh,2021,Waste Generated,207203.7
+1382,Clackmannanshire,2021,Waste Generated,23777.4
+1383,Dumfries and Galloway,2021,Waste Generated,65774.5
+1384,Dundee City,2021,Waste Generated,65012
+1385,East Ayrshire,2021,Waste Generated,53328.9
+1386,East Dunbartonshire,2021,Waste Generated,57694
+1387,East Lothian,2021,Waste Generated,53951.9
+1388,East Renfrewshire,2021,Waste Generated,40573.7
+1389,Falkirk,2021,Waste Generated,75817.1
+1390,Fife,2021,Waste Generated,166980.7
+1391,Glasgow City,2021,Waste Generated,258940.8
+1392,Highland,2021,Waste Generated,116065.7
+1393,Inverclyde,2021,Waste Generated,26632
+1394,Midlothian,2021,Waste Generated,43835
+1395,Moray,2021,Waste Generated,42538.7
+1396,Na h-Eileanan Siar,2021,Waste Generated,14125.3
+1397,North Ayrshire,2021,Waste Generated,63049.7
+1398,North Lanarkshire,2021,Waste Generated,161070.4
+1399,Orkney Islands,2021,Waste Generated,9360.8
+1400,Perth and Kinross,2021,Waste Generated,77370.2
+1401,Renfrewshire,2021,Waste Generated,85448
+1402,Scottish Borders,2021,Waste Generated,54561.4
+1403,Shetland Islands,2021,Waste Generated,9625.9
+1404,South Ayrshire,2021,Waste Generated,57828.4
+1405,South Lanarkshire,2021,Waste Generated,164765.1
+1406,Stirling,2021,Waste Generated,43957.6
+1407,West Dunbartonshire,2021,Waste Generated,42505.1
+1408,West Lothian,2021,Waste Generated,87149.5
